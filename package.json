@@ -1,0 +1,42 @@
+{
+  "name": "diablo3-database-cli",
+  "version": "0.0.1",
+  "description": "",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "lint": "eslint lib/ test/",
+    "test": "npm run lint && nyc mocha test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skygragon/diablo3-database-cli.git"
+  },
+  "keywords": [
+    "diablo",
+    "diablo3",
+    "database",
+    "tool",
+    "command"
+  ],
+  "author": {
+    "name": "Eric Wang",
+    "email": "skygragon@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skygragon/diablo3-database-cli/issues"
+  },
+  "homepage": "https://github.com/skygragon/diablo3-database-cli#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "eslint": "^3.14.1",
+    "eslint-config-google": "^0.7.1",
+    "mocha": "^3.2.0",
+    "nyc": "^10.1.2"
+  }
+}
