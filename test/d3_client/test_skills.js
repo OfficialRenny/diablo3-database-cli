@@ -58,6 +58,8 @@ describe('d3_client_en', function() {
             'Cooldown is reduced by 1 second for every 25 Fury you spend.',
           ],
           desc2:    '',
+          active:   true,
+          owner:    'barbarian',
           cooldown: '30 seconds',
           category: 'Might',
           icon:     'http://media.blizzard.com/d3/icons/skills/64/x1_barbarian_avalanche_v2.png',
@@ -121,6 +123,8 @@ describe('d3_client_en', function() {
           desc2: '"The battle was never ending, sapping our minds and bodies to the point of exhaustion. ' +
                  'But they thrived amidst the carnage, every killing blow renewing their bloodlust. They ' +
                  'couldn\'t be stopped." —Sergeant Peshkov on the Siege of the Barbarians, 1123 Anno Kehjistani',
+          active:   false,
+          owner:    'barbarian',
           category: '',
           icon:     'http://media.blizzard.com/d3/icons/skills/64/x1_barbarian_passive_rampage.png',
           id:       'rampage',
@@ -129,9 +133,9 @@ describe('d3_client_en', function() {
           name:     'Rampage',
           runes:    [],
         });
-      });
 
-      done();
+        done();
+      });
     });
   }); // #skills
 });
