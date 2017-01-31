@@ -1,0 +1,7383 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us">
+<head xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<meta http-equiv="imagetoolbar" content="false" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>Helms - Game Guide - Diablo III</title>
+<link rel="icon" href="/d3/static/images/icons/favicon.ico?v=58-96" type="image/x-icon" />
+<link rel="shortcut icon" href="/d3/static/images/icons/favicon.ico?v=58-96" type="image/x-icon" />
+<link title="Diablo® III - News" href="/d3/en/feed/news" type="application/atom+xml" rel="alternate" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://us.battle.net/en-us/data/opensearch" title="Battle.net Search" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/local-common/css/common-game-site.min.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/legal/ratings.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/d3.css?v=96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/nav-client/nav-client-desktop.css?v=96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/tooltips.css?v=96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/db.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/item/browse.css?v=58-96" />
+<!--[if IE 6]> <link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/tooltips-ie6.css?v=96" />
+<![endif]-->
+<script type="text/javascript" src="/d3/static/local-common/js/third-party.js?v=58-96"></script>
+<script type="text/javascript" src="/d3/static/local-common/js/common-game-site.min.js?v=58-96"></script>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Helms - Game Guide - Diablo III" />
+<meta name="twitter:description" content="Helms have a common enough purpose: to protect the vulnerable, fleshy parts of the head from skull cracks, and make gouging eyes out a bit harder. Sturdier helms can weigh quite a bit in exchange for providing ample protection." />
+<meta name="twitter:image:src" content="http://media.blizzard.com/d3/icons/items/large/transmoghelm_002_demonhunter_male.png" />
+<!--[if IE 6]> <script type="text/javascript">
+//<![CDATA[
+try { document.execCommand('BackgroundImageCache', false, true) } catch(e) {}
+//]]>
+</script>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+var Core = Core || {},
+Login = Login || {};
+Core.staticUrl = '/d3/static';
+Core.sharedStaticUrl = '/d3/static/local-common';
+Core.baseUrl = '/d3/en';
+Core.projectUrl = '/d3';
+Core.cdnUrl = 'http://media.blizzard.com';
+Core.supportUrl = 'http://us.battle.net/support/';
+Core.secureSupportUrl = 'https://us.battle.net/support/';
+Core.project = 'd3';
+Core.locale = 'en-us';
+Core.language = 'en';
+Core.region = 'us';
+Core.shortDateFormat = 'MM/dd/yyyy';
+Core.dateTimeFormat = 'MM/dd/yyyy hh:mm a';
+Core.loggedIn = false;
+Core.userAgent = 'web';
+Login.embeddedUrl = 'https://us.battle.net/login/login.frag';
+var Flash = Flash || {};
+Flash.videoPlayer = 'http://media.blizzard.com/global-video-player/themes/d3/video-player.swf';
+Flash.videoBase = 'http://media.blizzard.com/d3/media/videos';
+Flash.ratingImage = 'http://media.blizzard.com/global-video-player/ratings/d3/en-us.jpg';
+Flash.expressInstall = 'http://media.blizzard.com/global-video-player/expressInstall.swf';
+//]]>
+</script>
+<meta property="fb:app_id" content="155068716934" />
+<meta property="og:site_name" content="Diablo III" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://us.battle.net/d3/en/item/helm/" />
+<meta property="og:image" content="http://media.blizzard.com/d3/icons/items/large/transmoghelm_002_demonhunter_male.png" />
+<meta property="og:image" content="http://media.blizzard.com/battle.net/logos/og-d3.png" />
+<meta property="og:image" content="http://media.blizzard.com/battle.net/logos/og-blizzard.png" />
+<meta property="og:title" content="Helms" />
+<meta property="og:description" content="Helms have a common enough purpose: to protect the vulnerable, fleshy parts of the head from skull cracks, and make gouging eyes out a bit harder. Sturdier helms can weigh quite a bit in exchange for providing ample protection." />
+<link rel="canonical" href="http://us.battle.net/d3/en/item/helm/" />
+</head>
+<body class="en-us db-browse item-browse" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<script>
+//<![CDATA[
+var dataLayer = [{
+"authenticated": "0" }];
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!="dataLayer"?"&amp;l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);})
+(window,document,"script","dataLayer","GTM-M39SFZ");
+//]]>
+</script>
+<div id="nav-client-header" class="nav-client compact">
+<div id="nav-client-bar">
+<div class="grid-container nav-header-content">
+<ul class="nav-list nav-left" id="nav-client-main-menu">
+<li>
+<a id="nav-client-home" class="nav-item nav-home" href="http://us.battle.net/" data-analytics="global-nav" data-analytics-placement="Nav - Battle.net Icon"></a>
+</li>
+<li>
+<div class="dropdown games">
+<a class="dropdown-toggle nav-link needsclick active" data-toggle="dropdown">
+Games
+<b class="caret"></b>
+</a>
+<div class="dropdown-menu">
+<ul class="nav-product-card-container games-menu" role="menu">
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/wow/" data-analytics="global-nav" data-analytics-placement="Nav - Games - World of Warcraft"><i class="nav-icon-wow"></i>World of Warcraft®</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/d3/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Diablo III"><i class="nav-icon-d3"></i>Diablo® III</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/sc2/" data-analytics="global-nav" data-analytics-placement="Nav - Games - StarCraft II"><i class="nav-icon-sc2"></i>StarCraft® II</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/hearthstone/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Hearthstone"><i class="nav-icon-hearthstone"></i>Hearthstone®</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/heroes/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Heroes of the Storm"><i class="nav-icon-heroes"></i>Heroes of the Storm™</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/overwatch/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Overwatch"><i class="nav-icon-overwatch"></i>Overwatch™</a>
+</li>
+</ul>
+<div class="dropdown-well dropdown-section download-btn">
+<a class="nav-item nav-a nav-item-box" href="http://us.battle.net/games/classic" data-analytics="global-nav" data-analytics-placement="Nav - Games - Classic Games"><i class="nav-icon-24-blue nav-icon-mouse"></i>Classic Games</a>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a id="nav-client-shop" class="nav-item nav-link needsclick" href="https://us.battle.net/shop/" data-analytics="global-nav" data-analytics-placement="Nav - Shop">Shop</a>
+</li>
+</ul>
+<ul class="nav-list nav-right" id="nav-client-account-menu">
+<li>
+<div id="username">
+<div class="dropdown pull-right">
+<a class="nav-link username username--loggedout needsclick dropdown-toggle" data-toggle="dropdown" rel="navbar">
+Your account
+<b class="caret"></b>
+</a>
+<div class="dropdown-menu">
+<div class="arrow top"></div>
+<div class="user-profile">
+<div class="dropdown-section">
+<div class="nav-box">
+<a class="nav-item nav-btn nav-btn-block nav-login-btn" href="?login" data-analytics="global-nav" data-analytics-placement="Nav - Account - Log In">Log In</a>
+</div>
+</div>
+<div class="dropdown-section">
+<ul class="nav-list">
+<li>
+<a class="nav-item nav-a nav-item-box" href="http://us.battle.net/account/management/" data-analytics="global-nav" data-analytics-placement="Nav - Account - Settings"><i class="nav-icon-24-blue nav-icon-character-cog"></i>Account Settings</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a id="nav-client-support-link" class="nav-item nav-link needsclick" href="http://us.battle.net/support/" data-analytics="global-nav" data-analytics-placement="Nav - Support"> Support </a>
+</li>
+<li>
+<div class="nav-notification-icon">
+<a class="dropdown-toggle needsclick nav-item" rel="navbar">
+<i class="needsclick nav-icon-bell"></i>
+</a>
+<div class="nav-notification-dropdown dropdown-menu">
+<div class="arrow top"></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="nav-notification-responsive-container">
+<div class="nav-notification-dropdown dropdown-menu">
+<div class="arrow top"></div>
+</div>
+</div>
+</div>
+<div class="bg-wrapper">
+<div class="wrapper">
+<div class="head">
+<h1 class="logo">
+<a href="/d3/en/">Diablo® III</a>
+</h1>
+<a href="javascript:;" class="skull-eyes" id="skull-eyes"></a>
+<div class="try-free">
+<span class="try-free-label">New to Diablo III?</span>
+<a class="button-game" href="https://us.battle.net/account/activation/landing.html?product=D3&amp;d3Gateway" data-analytics="d3-starter-edition" data-analytics-placement="Masthead">
+<span class="button-game-bg-left"></span>
+<span class="button-game-bg-mid">
+<span>Try Free Now</span>
+</span>
+<span class="button-game-bg-right"></span>
+</a>
+</div>
+<div class="search-bar">
+<form action="/d3/en/search" method="get" autocomplete="off">
+<div>
+<input type="search" class="search-field input" name="q" id="search-field" maxlength="200" tabindex="40" alt="Search Diablo III..." value="Search Diablo III..." />
+<input type="submit" class="search-button" value="" tabindex="41" />
+</div>
+</form>
+</div>
+<ul class="menu" id="menu">
+<li class="menu-home" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/">
+<span itemprop="name">Home</span>
+</a>
+</li>
+<li class="menu-game" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/game/" class="menu-active">
+<span itemprop="name">Game Guide</span>
+</a>
+</li>
+<li class="menu-rankings" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/rankings/">
+<span itemprop="name">Rankings</span>
+</a>
+</li>
+<li class="menu-media" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/media/">
+<span itemprop="name">Media</span>
+</a>
+</li>
+<li class="menu-forums" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="https://us.battle.net/forums/en/d3/">
+<span itemprop="name">Forums</span>
+</a>
+</li>
+<li class="menu-purchase" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/purchase">
+<span itemprop="name">Buy Now</span>
+</a>
+</li>
+</ul>
+<div class="character-card card-login ajax-update">
+<a href="?login" class="click-area login" onclick="return Login.open('https://us.battle.net/login/login.frag');">
+<span class="inner"> <strong>Log in now</strong> to enhance and personalize your experience!
+</span>
+<span class="avatar-frame">
+<span class="no-avatar"></span>
+<span class="border"></span>
+</span>
+</a>
+</div>
+</div>
+<div class="body" itemscope="itemscope" itemtype="http://schema.org/WebPageElement">
+<div class="body-top">
+<div class="body-bot">
+	<div class="browse-wrapper">
+		<div class="browse-left">
+	<div class="db-navigation">
+
+
+
+	<h2 class="subheader-2" >			<a href="/d3/en/item/">
+				Items
+				<span class="icon-frame icon-frame-text">
+					<span class="icon-16 icon-16-rarrow"></span>
+				</span>
+			</a>
+</h2>
+
+	
+
+	<h3 class="header-3" >Armor</h3>
+
+
+	<ul>
+
+				<li class="open">
+						
+
+
+	<h3 class="subheader-3" >Head</h3>
+
+						<ul>
+	<li>
+		<a href="/d3/en/item/helm/" class="selected">
+			Helms
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/spirit-stone/">
+				<span class="nav-portrait" data-tooltip="Only the Monk can equip these items.">
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/21/monk_male.png'); width: 21px; height: 21px;">
+			<span class="frame"></span>
+		</span>
+				</span>
+			Spirit Stones
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/voodoo-mask/">
+				<span class="nav-portrait" data-tooltip="Only the Witch Doctor can equip these items.">
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/21/witchdoctor_male.png'); width: 21px; height: 21px;">
+			<span class="frame"></span>
+		</span>
+				</span>
+			Voodoo Masks
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/wizard-hat/">
+				<span class="nav-portrait" data-tooltip="Only the Wizard can equip these items.">
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/21/wizard_female.png'); width: 21px; height: 21px;">
+			<span class="frame"></span>
+		</span>
+				</span>
+			Wizard Hats
+		</a>
+	</li>
+						</ul>
+				</li>
+
+	<li>
+		<a href="/d3/en/item/pauldrons/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Shoulders
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/chest-armor/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Torso
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/bracers/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Wrists
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/gloves/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Hands
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/belt/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Waist
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/pants/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Legs
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/boots/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Feet
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/amulet/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Jewelry
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/shield/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Off-Hand
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/enchantress-focus/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Follower Special
+		</a>
+	</li>
+	</ul>
+
+	
+
+	<h3 class="header-3" >Weapons</h3>
+
+
+	<ul>
+	<li>
+		<a href="/d3/en/item/axe-1h/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			One-Handed
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/axe-2h/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Two-Handed
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/bow/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Ranged
+		</a>
+	</li>
+	</ul>
+	
+
+	<h3 class="header-3" >Other</h3>
+
+
+	<ul>
+	<li>
+		<a href="/d3/en/item/potion/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Consumables
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/crafting-material/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Crafting
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/dye/">
+			Dyes
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/gem/">
+			Gems
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/misc/">
+			Miscellaneous
+		</a>
+	</li>
+	</ul>
+	</div>
+		</div>
+
+		<div class="browse-right">
+
+			<div class="page-header">
+
+
+
+
+
+	<h2 class="header-2" >			Helms
+
+			<small>
+					Head
+
+
+			</small>
+</h2>
+
+					<div class="desc">
+						Helms have a common enough purpose: to protect the vulnerable, fleshy parts of the head from skull cracks, and make gouging eyes out a bit harder. Sturdier helms can weigh quite a bit in exchange for providing ample protection.
+					</div>
+			</div>
+
+			<div class="page-body">
+
+
+
+
+
+
+
+	<div class="db-filters" id="filters">
+
+	<div class="ui-filter">
+		<input type="text" name="filter" id="filter-filter" class="input "
+			value="Filter…" alt="Filter…" maxlength="25"
+			data-filter="row"  />
+
+		<span class="view"></span>
+		<span class="reset" style="display: none"></span>
+	</div>
+
+			<ul class="filter-tabs">
+				<li><a href="javascript:;" class="tab-active" data-type="">All</a></li>
+
+						<li><a href="javascript:;" data-type="common" data-tooltip="#tip-common-items">Normal (21)</a></li>
+						<li><a href="javascript:;" data-type="crafted">Crafted (23)</a></li>
+						<li><a href="javascript:;" data-type="legendary">Legendary (12)</a></li>
+						<li><a href="javascript:;" data-type="set">Set (30)</a></li>
+			</ul>
+
+	<span class="clear"><!-- --></span>
+	</div>
+
+	<div id="tip-common-items" style="display: none">
+		<div class="tooltip">
+				
+
+
+	<h3 class="subheader-3" >Normal Items</h3>
+
+		<div class="colors-subtle">
+			You may find <span class="d3-color-gray">Inferior</span>, <span class="d3-color-white">Superior</span>, <span class="d3-color-blue">Magic</span>, or <span class="d3-color-yellow">Rare</span> versions of these items, with random properties that aren’t listed on this page.
+		</div>
+		</div>
+	</div>
+
+	<div id="tip-always-magic" style="display: none">
+		<div class="tooltip">
+				
+
+
+	<h3 class="subheader-3" >Always Magic</h3>
+
+		Items of this type always possess random properties.
+		</div>
+	</div>
+
+
+
+	<div id="table-items" class="table-items category-helm icon-size-default colors-subtle">
+
+
+
+
+
+	<div class="data-options top">
+			<div class="option">
+
+
+
+
+
+
+
+<ul class="ui-pagination"><li class="current"><a href="#page=1" data-pagenum="1"><span>1</span></a></li><li><a href="#page=2" data-pagenum="2"><span>2</span></a></li><li><a href="#page=3" data-pagenum="3"><span>3</span></a></li><li><a href="#page=4" data-pagenum="4"><span>4</span></a></li></ul>
+			</div>
+
+
+			Showing <strong class="results-start">1</strong>–<strong class="results-end">25</strong> of <strong class="results-total">76</strong> results
+
+	<span class="clear"><!-- --></span>
+	</div>
+
+		<div class="data-container">
+
+	<div class="table db-table db-table-padded">
+		<table>
+				<thead>
+					<tr>
+
+
+							<th class="column-item first-child">
+
+
+			<a href="javascript:;" class="sort-link default" >
+				<span class="arrow">									Item
+</span>
+			</a>
+
+							</th>
+
+
+							<th class="column-level align-center last-child">
+
+
+			<a href="javascript:;" class="sort-link numeric" >
+				<span class="arrow up">									Req.
+</span>
+			</a>
+
+							</th>
+					</tr>
+				</thead>
+			<tbody>
+
+					<tr class="row1 common" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/helm-of-the-cranial-crustacean" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/transmoghelm_002_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/helm-of-the-cranial-crustacean" rel="np" class="d3-color-default">Helm of the Cranial Crustacean</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">21–24</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="1">
+			
+
+
+	<h3 class="subheader-3" >1</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 common" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/star-helm" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/transmoghelm_001_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/star-helm" rel="np" class="d3-color-default">Star Helm</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">21–24</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="1">
+			
+
+
+	<h3 class="subheader-3" >1</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 legendary" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/leorics-crown" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_002_p1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/leorics-crown" rel="np" class="d3-color-orange">Leoric&#39;s Crown</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-orange">Legendary Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">72–89</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-orange d3-item-property-default"><p>Increase the effect of any gem socketed into this item by <span class="d3-color-blue"><span class="value">75–100</span><span class="value">%</span></span>. This effect does not apply to Legendary Gems.</p></li>
+
+					<br/>
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+18–26</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+18–26</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+18–26</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">3</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="1">
+			
+
+
+	<h3 class="subheader-3" >1</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 common" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/leather-hood" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_002_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/leather-hood" rel="np" class="d3-color-default">Leather Hood</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">21–24</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="4">
+			
+
+
+	<h3 class="subheader-3" >4</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 common" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/coif" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_003_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/coif" rel="np" class="d3-color-default">Coif</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">36–41</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="9">
+			
+
+
+	<h3 class="subheader-3" >9</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 crafted" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/apprentice-coif" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_003_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/apprentice-coif" rel="np" class="d3-color-blue">Apprentice Coif</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-blue">Magic Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">36–41</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">2</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 1)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="9">
+			
+
+
+	<h3 class="subheader-3" >9</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 legendary" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/prides-fall" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_103_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/prides-fall" rel="np" class="d3-color-orange">Pride&#39;s Fall</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-orange">Legendary Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">36–41</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+36–44</span> Vitality</p></li>
+			<li class="d3-color-blue d3-item-property-default"><p>Critical Hit Chance Increased by <span class="value">1.5–2.0</span><span class="value">%</span></p></li>
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-orange d3-item-property-default"><p>Your resource costs are reduced by <span class="value">30%</span> after not taking damage for 5 seconds.</p></li>
+
+					<br/>
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+36–44</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+36–44</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+36–44</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">2</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="12">
+			
+
+
+	<h3 class="subheader-3" >12</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 common" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/arming-cap" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_004_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/arming-cap" rel="np" class="d3-color-default">Arming Cap</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">54–71</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="15">
+			
+
+
+	<h3 class="subheader-3" >15</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 crafted" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/apprentice-arming-cap" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-yellow">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_004_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/apprentice-arming-cap" rel="np" class="d3-color-yellow">Apprentice Arming Cap</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-yellow">Rare Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">54–71</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 1)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="15">
+			
+
+
+	<h3 class="subheader-3" >15</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 legendary" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/broken-crown" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/p2_unique_helm_001_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/broken-crown" rel="np" class="d3-color-orange">Broken Crown</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-orange">Legendary Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">54–71</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-orange d3-item-property-default"><p>Whenever a gem drops, a gem of the type socketed into your helmet also drops. This effect does not apply to Legendary Gems.</p></li>
+
+					<br/>
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+56–73</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+56–73</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+56–73</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">3</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="18">
+			
+
+
+	<h3 class="subheader-3" >18</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 common" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/chain-hood" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_004a_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/chain-hood" rel="np" class="d3-color-default">Chain Hood</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">63–72</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="18">
+			
+
+
+	<h3 class="subheader-3" >18</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 crafted" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/journeyman-chain-hood" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-yellow">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_004a_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/journeyman-chain-hood" rel="np" class="d3-color-yellow">Journeyman Chain Hood</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-yellow">Rare Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">63–72</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 2)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="18">
+			
+
+
+	<h3 class="subheader-3" >18</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 common" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/helmet" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_005_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/helmet" rel="np" class="d3-color-default">Helmet</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">72–89</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="21">
+			
+
+
+	<h3 class="subheader-3" >21</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 crafted" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/adept-helmet" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-yellow">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_005_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/adept-helmet" rel="np" class="d3-color-yellow">Adept Helmet</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-yellow">Rare Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">72–89</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 3)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="21">
+			
+
+
+	<h3 class="subheader-3" >21</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 crafted set" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/cains-laurel" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_012_1xx_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/cains-laurel" rel="np" class="d3-color-green">Cain&#39;s Memory</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">72–89</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p>Critical Hit Chance Increased by <span class="value">2.5–3.0</span><span class="value">%</span></p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Cain&#39;s Fate</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 4)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="23">
+			
+
+
+	<h3 class="subheader-3" >23</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 common" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/plated-helm" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_006_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/plated-helm" rel="np" class="d3-color-default">Plated Helm</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">90–113</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="27">
+			
+
+
+	<h3 class="subheader-3" >27</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 crafted" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/master-plated-helm" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-yellow">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_006_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/master-plated-helm" rel="np" class="d3-color-yellow">Master Plated Helm</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-yellow">Rare Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">90–113</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 4)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="27">
+			
+
+
+	<h3 class="subheader-3" >27</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 legendary" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/blind-faith" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_007_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/blind-faith" rel="np" class="d3-color-orange">Blind Faith</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-orange">Legendary Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">186–217</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-blue d3-item-property-utility"><p><span class="value">20.0–40.0</span><span class="value">%</span> Chance to Blind on Hit</p></li>
+
+					<br/>
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+128–163</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+128–163</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+128–163</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="29">
+			
+
+
+	<h3 class="subheader-3" >29</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 legendary" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/deathseers-cowl" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_102_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/deathseers-cowl" rel="np" class="d3-color-orange">Deathseer&#39;s Cowl</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-orange">Legendary Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">114–137</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-orange d3-item-property-default"><p><span class="d3-color-blue"><span class="value">15–20</span><span class="value">%</span></span> chance on being hit by an Undead enemy to charm it for 2 seconds.</p></li>
+
+					<br/>
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+128–163</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+128–163</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+128–163</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">3</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="31">
+			
+
+
+	<h3 class="subheader-3" >31</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 legendary" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/visage-of-gunes" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/p4_unique_helm_103_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/visage-of-gunes" rel="np" class="d3-color-orange">Visage of Gunes</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-orange">Legendary Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">114–137</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-orange d3-item-property-default"><p>Vengeance gains the effect of the Dark Heart rune.</p></li>
+
+					<br/>
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+128–163</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+128–163</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+128–163</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">3</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="31">
+			
+
+
+	<h3 class="subheader-3" >31</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 legendary" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/warhelm-of-kassar" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/p4_unique_helm_102_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/warhelm-of-kassar" rel="np" class="d3-color-orange">Warhelm of Kassar</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-orange">Legendary Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">114–137</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-orange d3-item-property-default"><p>Reduce the cooldown and increase the damage of Phalanx by <span class="d3-color-blue"><span class="value">45–60</span><span class="value">%</span></span>.</p></li>
+
+					<br/>
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+128–163</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+128–163</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+128–163</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">3</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="31">
+			
+
+
+	<h3 class="subheader-3" >31</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 common" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/crown" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_101_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/crown" rel="np" class="d3-color-default">Crown</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">114–137</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="32">
+			
+
+
+	<h3 class="subheader-3" >32</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 crafted" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/grand-master-crown" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-yellow">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_101_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/grand-master-crown" rel="np" class="d3-color-yellow">Grand Master Crown</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-yellow">Rare Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">114–137</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 5)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="32">
+			
+
+
+	<h3 class="subheader-3" >32</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 common" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/basinet" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_102_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/basinet" rel="np" class="d3-color-default">Basinet</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">138–161</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="36">
+			
+
+
+	<h3 class="subheader-3" >36</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 common" >
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/klappvisier" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_103_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/klappvisier" rel="np" class="d3-color-default">Klappvisier</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">162–185</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="40">
+			
+
+
+	<h3 class="subheader-3" >40</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 crafted" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/illustrious-klappvisier" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-yellow">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_103_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/illustrious-klappvisier" rel="np" class="d3-color-yellow">Illustrious Klappvisier</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-yellow">Rare Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">162–185</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 6)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="40">
+			
+
+
+	<h3 class="subheader-3" >40</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 crafted set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/aughilds-brow" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_014_1xx_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/aughilds-brow" rel="np" class="d3-color-green">Aughild&#39;s Peak</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">289–402</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+56–69</span> Strength</p></li>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+56–69</span> Dexterity</p></li>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+56–69</span> Intelligence</p></li>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+56–69</span> Vitality</p></li>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+127–217</span> Armor</p></li>
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-blue d3-item-property-utility"><p><span class="value">11–12</span><span class="value">%</span> Better Chance of Finding Magical Items</p></li>
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">3</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Aughild&#39;s Victory</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 6)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="42">
+			
+
+
+	<h3 class="subheader-3" >42</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 common" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/casque" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_104_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/casque" rel="np" class="d3-color-default">Casque</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">186–217</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="44">
+			
+
+
+	<h3 class="subheader-3" >44</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 crafted" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/magnificent-casque" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-yellow">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_104_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/magnificent-casque" rel="np" class="d3-color-yellow">Magnificent Casque</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-yellow">Rare Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">186–217</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">5</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 7)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="44">
+			
+
+
+	<h3 class="subheader-3" >44</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 common" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/great-helm" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_105_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/great-helm" rel="np" class="d3-color-default">Great Helm</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">217–246</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="50">
+			
+
+
+	<h3 class="subheader-3" >50</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 crafted" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/resplendent-great-helm" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-yellow">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_105_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/resplendent-great-helm" rel="np" class="d3-color-yellow">Resplendent Great Helm</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-yellow">Rare Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">217–246</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">5</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 8)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="50">
+			
+
+
+	<h3 class="subheader-3" >50</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 legendary" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/skull-of-resonance" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_004_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/skull-of-resonance" rel="np" class="d3-color-orange">Skull of Resonance</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-orange">Legendary Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">217–246</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+</span><span class="value">21–30</span> Resistance to All Elements</p></li>
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-orange d3-item-property-default"><p>Threatening Shout has a chance to Charm enemies and cause them to join your side.</p></li>
+
+					<br/>
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+240–269</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+240–269</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+240–269</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">2</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="50">
+			
+
+
+	<h3 class="subheader-3" >50</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 common" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/hounskull" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_201_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/hounskull" rel="np" class="d3-color-default">Hounskull</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">247–269</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="54">
+			
+
+
+	<h3 class="subheader-3" >54</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 crafted" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/glorious-hounskull" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-yellow">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_201_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/glorious-hounskull" rel="np" class="d3-color-yellow">Glorious Hounskull</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-yellow">Rare Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">247–269</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">5</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 9)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="54">
+			
+
+
+	<h3 class="subheader-3" >54</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 crafted set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/guardians-watch" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_015_1xx_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/guardians-watch" rel="np" class="d3-color-green">Guardian&#39;s Foresight</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">247–269</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+</span><span class="value">31–40</span> Resistance to All Elements</p></li>
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-blue d3-item-property-utility"><p><span class="value">1.0–4.5</span><span class="value">%</span> Chance to Fear on Hit</p></li>
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Guardian&#39;s Contingency</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 8)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="55">
+			
+
+
+	<h3 class="subheader-3" >55</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 common" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/stechhelm" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_202_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/stechhelm" rel="np" class="d3-color-default">Stechhelm</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">270–284</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="57">
+			
+
+
+	<h3 class="subheader-3" >57</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 common" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/zischagge" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_203_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/zischagge" rel="np" class="d3-color-default">Zischagge</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">285–322</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="59">
+			
+
+
+	<h3 class="subheader-3" >59</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 legendary" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon effect-bg effect-bg-fire">
+				<a href="/d3/en/item/andariels-visage" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_003_p2_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/andariels-visage" rel="np" class="d3-color-orange">Andariel&#39;s Visage</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-orange">Legendary Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">360–397</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p>Attack Speed Increased by <span class="value">5.0–6.0</span><span class="value">%</span></p></li>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">5–10</span><span class="value">%</span> more Fire damage taken.</p></li>
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+</span><span class="value">150–200</span> Poison Resistance</p></li>
+			<li class="d3-color-orange d3-item-property-default"><p>Attacks release a Poison Nova that deals <span class="d3-color-blue"><span class="value">350–450</span><span class="value">%</span></span> weapon damage as Poison to enemies within 10 yards.</p></li>
+
+					<br/>
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">7</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p>Physical skills deal <span class="value">15–20</span><span class="value">%</span> more damage.</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p>Lightning skills deal <span class="value">15–20</span><span class="value">%</span> more damage.</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p>Cold skills deal <span class="value">15–20</span><span class="value">%</span> more damage.</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p>Fire skills deal <span class="value">15–20</span><span class="value">%</span> more damage.</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p>Arcane skills deal <span class="value">15–20</span><span class="value">%</span> more damage.</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p>Poison skills deal <span class="value">15–20</span><span class="value">%</span> more damage.</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p>Holy skills deal <span class="value">15–20</span><span class="value">%</span> more damage.</p></span>
+			</li>
+	</ul>
+		</li>
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">1</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="60">
+			
+
+
+	<h3 class="subheader-3" >60</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 legendary" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/mempo-of-twilight" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_006_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/mempo-of-twilight" rel="np" class="d3-color-orange">Mempo of Twilight</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-orange">Legendary Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">397–471</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+</span><span class="value">81–85</span> Resistance to All Elements</p></li>
+			<li class="d3-color-blue d3-item-property-default"><p>Attack Speed Increased by <span class="value">5.0–6.0</span><span class="value">%</span></p></li>
+
+
+					<br/>
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">2</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="60">
+			
+
+
+	<h3 class="subheader-3" >60</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/immortal-kings-triumph" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_008_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/immortal-kings-triumph" rel="np" class="d3-color-green">Immortal King&#39;s Triumph</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">397–471</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Immortal King&#39;s Call</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="60">
+			
+
+
+	<h3 class="subheader-3" >60</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/natalyas-sight" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_009_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/natalyas-sight" rel="np" class="d3-color-green">Natalya&#39;s Sight</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">397–471</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Natalya&#39;s Vengeance</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="60">
+			
+
+
+	<h3 class="subheader-3" >60</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/tal-rashas-guise-of-wisdom" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_010_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/tal-rashas-guise-of-wisdom" rel="np" class="d3-color-green">Tal Rasha&#39;s Guise of Wisdom</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">397–471</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p>Critical Hit Chance Increased by <span class="value">4.5–6.0</span><span class="value">%</span></p></li>
+
+
+					<br/>
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+330–524</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">3</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Tal Rasha&#39;s Elements</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="60">
+			
+
+
+	<h3 class="subheader-3" >60</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 common" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/hellscape-mask" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_204_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/hellscape-mask" rel="np" class="d3-color-default">Hellscape Mask</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">322–359</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="60">
+			
+
+
+	<h3 class="subheader-3" >60</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 common" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/sovereign-helm" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_205_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/sovereign-helm" rel="np" class="d3-color-default">Sovereign Helm</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">360–397</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="60">
+			
+
+
+	<h3 class="subheader-3" >60</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 crafted" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/exalted-helm" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-yellow">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_205_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/exalted-helm" rel="np" class="d3-color-yellow">Exalted Helm</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-yellow">Rare Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">360–397</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">6</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 10)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="60">
+			
+
+
+	<h3 class="subheader-3" >60</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 crafted legendary" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/the-helm-of-command" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_011_1xx_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/the-helm-of-command" rel="np" class="d3-color-orange">The Helm of Command</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-orange">Legendary Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">360–397</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-utility"><p><span class="value">+8</span><span class="value">%</span> Chance to Block</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">5</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 10)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="60">
+			
+
+
+	<h3 class="subheader-3" >60</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 crafted set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/sages-stones" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_016_1xx_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/sages-stones" rel="np" class="d3-color-green">Sage&#39;s Orbit</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">807–917</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+410–446</span> Armor</p></li>
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-blue d3-item-property-utility"><p>Reduces duration of control impairing effects by <span class="value">10–20</span><span class="value">%</span></p></li>
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Sage&#39;s Plight</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 10)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="60">
+			
+
+
+	<h3 class="subheader-3" >60</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 common" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/archon-crown" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_206_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/archon-crown" rel="np" class="d3-color-default">Archon Crown</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">397–471</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="60">
+			
+
+
+	<h3 class="subheader-3" >60</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 common" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/rakkisgard-helm" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_207_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/rakkisgard-helm" rel="np" class="d3-color-default">Rakkisgard Helm</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">472–659</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="61">
+			
+
+
+	<h3 class="subheader-3" >61</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 crafted" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/exquisite-rakkisgard-helm" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-yellow">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_207_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/exquisite-rakkisgard-helm" rel="np" class="d3-color-yellow">Exquisite Rakkisgard Helm</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-yellow">Rare Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">472–659</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">6</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 11)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="61">
+			
+
+
+	<h3 class="subheader-3" >61</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 common" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/ascended-crown" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_208_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/ascended-crown" rel="np" class="d3-color-default">Ascended Crown</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-default">Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 crafted" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/sovereign-ascended-crown" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-yellow">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_208_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/sovereign-ascended-crown" rel="np" class="d3-color-yellow">Sovereign Ascended Crown</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-yellow">Rare Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">6</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 12)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 crafted legendary" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/the-helm-of-rule" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_011_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/the-helm-of-rule" rel="np" class="d3-color-orange">The Helm of Rule</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-orange">Legendary Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Vitality</p></li>
+			<li class="d3-color-blue d3-item-property-utility"><p><span class="value">+11</span><span class="value">%</span> Chance to Block</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 12)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/accursed-visage" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_03_p2_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/accursed-visage" rel="np" class="d3-color-green">Accursed Visage</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Dexterity</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Unhallowed Essence</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/arachyrs-visage" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_02_p3_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/arachyrs-visage" rel="np" class="d3-color-green">Arachyr’s Visage</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Intelligence</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Spirit of Arachyr</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 crafted set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/aughilds-spike" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_014_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/aughilds-spike" rel="np" class="d3-color-green">Aughild&#39;s Spike</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+</span><span class="value">91–100</span> Resistance to All Elements</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">5</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Aughild&#39;s Authority</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 12)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 crafted set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/cains-insight" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_012_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/cains-insight" rel="np" class="d3-color-green">Cain&#39;s Insight</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-blue d3-item-property-utility"><p>Monster kills grant <span class="value">+140–200</span> experience.</p></li>
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Cain&#39;s Destiny</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 12)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/crown-of-the-invoker" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_12_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/crown-of-the-invoker" rel="np" class="d3-color-green">Crown of the Invoker</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+
+		<p class="item-property-category">Secondary</p>
+			<li class="d3-color-blue d3-item-property-utility"><p><span class="value">+2401–2880</span> Thorns Damage</p></li>
+
+					<br/>
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">3</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Thorns of the Invoker</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/crown-of-the-light" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_03_p3_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/crown-of-the-light" rel="np" class="d3-color-green">Crown of the Light</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Strength</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Seeker of the Light</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/eyes-of-the-earth" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_15_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/eyes-of-the-earth" rel="np" class="d3-color-green">Eyes of the Earth</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Might of the Earth</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/firebirds-plume" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_06_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/firebirds-plume" rel="np" class="d3-color-green">Firebird&#39;s Plume</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Intelligence</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Firebird&#39;s Finery</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 crafted set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/guardians-gaze" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_015_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/guardians-gaze" rel="np" class="d3-color-green">Guardian&#39;s Gaze</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-utility"><p><span class="value">+10–12</span><span class="value">%</span> Movement Speed</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">5</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Guardian&#39;s Jeopardy</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 12)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/helltooth-mask" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_16_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/helltooth-mask" rel="np" class="d3-color-green">Helltooth Mask</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Intelligence</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Helltooth Harness</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/helm-of-akkhan" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_10_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/helm-of-akkhan" rel="np" class="d3-color-green">Helm of Akkhan</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Strength</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Armor of Akkhan</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/helm-of-the-wastes" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_01_p2_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/helm-of-the-wastes" rel="np" class="d3-color-green">Helm of the Wastes</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Strength</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Wrath of the Wastes</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/jade-harvesters-wisdom" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_09_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/jade-harvesters-wisdom" rel="np" class="d3-color-green">Jade Harvester&#39;s Wisdom</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Raiment of the Jade Harvester</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/marauders-visage" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_07_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/marauders-visage" rel="np" class="d3-color-green">Marauder&#39;s Visage</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Dexterity</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Embodiment of the Marauder</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/mask-of-the-searing-sky" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_08_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/mask-of-the-searing-sky" rel="np" class="d3-color-green">Mask of the Searing Sky</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Dexterity</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Raiment of a Thousand Storms</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/raekors-will" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_05_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/raekors-will" rel="np" class="d3-color-green">Raekor&#39;s Will</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Strength</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">The Legacy of Raekor</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/rolands-visage" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_01_p1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/rolands-visage" rel="np" class="d3-color-green">Roland&#39;s Visage</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Strength</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Roland&#39;s Legacy</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 crafted set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/artisan/blacksmith/recipe/sages-apogee" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_016_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/artisan/blacksmith/recipe/sages-apogee" rel="np" class="d3-color-green">Sage&#39;s Apogee</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">5</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Sage&#39;s Journey</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+
+
+	<ul class="item-crafting">
+	<li>
+		Crafted By: <span class="value">Blacksmith</span>
+			(Level 12)
+	</li>
+
+	</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/shrouded-mask" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_02_p2_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/shrouded-mask" rel="np" class="d3-color-green">Shrouded Mask</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Intelligence</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Delsere&#39;s Magnum Opus</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/sunwukos-crown" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_11_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/sunwukos-crown" rel="np" class="d3-color-green">Sunwuko&#39;s Crown</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Monkey King&#39;s Garb</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/the-shadows-mask" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_14_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/the-shadows-mask" rel="np" class="d3-color-green">The Shadow&#39;s Mask</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">The Shadow’s Mantle</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row1 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/ulianas-spirit" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_01_p3_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/ulianas-spirit" rel="np" class="d3-color-green">Uliana&#39;s Spirit</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+		<p class="item-property-category">Primary</p>
+			<li class="d3-color-blue d3-item-property-default"><p><span class="value">+626–750</span> Dexterity</p></li>
+
+
+					<br/>
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Uliana&#39;s Stratagem</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+					<tr class="row2 set" style="display: none">
+	<td valign="top" class="column-item">
+		<div class="item-details">
+			<div class="item-details-icon">
+				<a href="/d3/en/item/vyrs-sightless-skull" rel="np">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-green">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_helm_set_13_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+				</a>
+			</div>
+
+			<div class="item-details-text">
+
+
+
+	<h3 class="subheader-3" >					<a href="/d3/en/item/vyrs-sightless-skull" rel="np" class="d3-color-green">Vyr&#39;s Sightless Skull</a>
+</h3>
+
+
+
+	<div class="d3-item-properties">
+
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-green">Set Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">660–759</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+		<li class="item-effects-choice">
+			<span class="d3-color-blue">One of <span class="value">3</span> Magic Properties (varies)</span>
+	<ul>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Dexterity</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Strength</p></span>
+			</li>
+			<li>
+					<span class="d3-color-blue"><p><span class="value">+626–750</span> Intelligence</p></span>
+			</li>
+	</ul>
+		</li>
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">4</span> Random Magic Properties</li>
+
+
+			<li class="empty-socket d3-color-blue">Empty Socket</li>
+
+		</ul>
+
+
+
+	<ul class="item-itemset">
+			<li class="item-itemset-name"><span class="d3-color-green">Vyr&#39;s Amazing Arcana</span></li>
+	</ul>
+
+		<ul class="item-extras">
+		<li>Account Bound</li>
+		</ul>
+		<span class="item-unique-equipped">Unique Equipped</span>
+	<span class="clear"><!-- --></span>
+	</div>
+			</div>
+		</div>
+	</td>
+	<td valign="top" class="column-level align-center" data-raw="70">
+			
+
+
+	<h3 class="subheader-3" >70</h3>
+
+	</td>
+					</tr>
+
+				<tr class="no-results" style="display: none">
+					<td colspan="2">
+						There are no items to currently display.
+					</td>
+				</tr>
+
+			</tbody>
+		</table>
+	</div>
+		</div>
+
+
+
+
+
+
+	<div class="data-options bottom">
+			<div class="option">
+
+
+
+
+
+
+
+<ul class="ui-pagination"><li class="current"><a href="#page=1" data-pagenum="1"><span>1</span></a></li><li><a href="#page=2" data-pagenum="2"><span>2</span></a></li><li><a href="#page=3" data-pagenum="3"><span>3</span></a></li><li><a href="#page=4" data-pagenum="4"><span>4</span></a></li></ul>
+			</div>
+
+
+			Showing <strong class="results-start">1</strong>–<strong class="results-end">25</strong> of <strong class="results-total">76</strong> results
+
+	<span class="clear"><!-- --></span>
+	</div>
+	</div>
+
+		<script type="text/javascript">
+		//<![CDATA[
+		$(document).ready(function() {
+			DB.Table.factory('#table-items', {
+				paging: true,
+				results: 25,
+				totalResults: 76
+			});
+		});
+		//]]>
+		</script>
+
+	<span class="clear"><!-- --></span>
+			</div>
+
+		</div>
+
+	<span class="clear"><!-- --></span>
+	</div>
+
+
+
+
+
+	<div id="comments" class="bnet-comments ">
+		
+
+
+	<h2 class="subheader-2" >Loading Comments…</h2>
+
+		
+
+
+	<h2 class="hide" >An error has occurred loading comments.</h2>
+
+
+		<div class="comments-loading"></div>
+
+		<script type="text/javascript">
+		//<![CDATA[
+			$(function() {
+				Comments.initialize('us.en_us.d3.item_category_helm', 'e0a29ba00dc095642dc0855ad22fecc4', '0');
+			});
+		//]]>
+		</script>
+	</div>
+
+
+
+
+<span class="clear"><!-- --></span>
+<div class="social-media-container no-font-boost">
+<h2 class="social-media-title">Stay Connected</h2>
+<ul class="social-media">
+<li class="atom-feed">
+<a href="/d3/en/feed/news" target="_blank"></a>
+</li>
+<li class="facebook">
+<a href="https://www.facebook.com/Diablo" title=""></a>
+</li>
+<li class="twitter">
+<a href="https://twitter.com/Diablo" title=""></a>
+</li>
+<li class="youtube">
+<a href="https://www.youtube.com/Diablo" title=""></a>
+</li>
+<li class="reddit">
+<a href="http://www.reddit.com/r/diablo" title="Diablo on reddit"></a>
+</li>
+<span class="clear"><!-- --></span>
+</ul>
+</div>
+<a href="javascript:;" class="chat-gem" id="chat-gem"></a>
+</div>
+</div>
+<div class="body-trail">
+<ol class="ui-breadcrumb">
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Diablo III</span>
+</a>
+</li>
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/game/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Game Guide</span>
+</a>
+</li>
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/item/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Items</span>
+</a>
+</li>
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/item/armor/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Armor</span>
+</a>
+</li>
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/item/head/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Head</span>
+</a>
+</li>
+<li class="last" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/item/helm/" rel="np" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Helms</span>
+</a>
+</li>
+</ol>
+<span class="clear"><!-- --></span>
+</div>
+</div>
+<div class="nav-footer-wrapper">
+<div id="nav-client-footer" class="nav-client">
+<div class="footer-content footer-desktop grid-container"> <div class="nav-section support-feedback">
+<div class="nav-left">
+<div id="nav-feedback">
+<a id="nav-client-news" class="nav-item nav-a nav-item-btn" href="http://us.battle.net/support/" data-analytics="global-nav" data-analytics-placement="Footer - Support"><i class="nav-icon-24-blue nav-icon-question-circle"></i>Support</a>
+<a class="nav-item nav-a nav-item-btn" href="https://us.battle.net/feedback" data-analytics="global-nav" data-analytics-placement="Footer - Feedback"><i class="nav-icon-24-blue nav-icon-edit"></i>Feedback</a>
+</div>
+</div>
+<div class="nav-right">
+<div id="nav-client-region-select">
+<div class="dropdown dropup pull-right">
+<a class="dropdown-toggle nav-item" data-toggle="dropdown">
+<i class="nav-icon-24-blue nav-icon-globe"></i>Americas - English (US)<b class="caret"></b>
+</a>
+<div class="dropdown-menu" data-placement="top">
+<div class="arrow bottom"></div>
+<div id="nav-client-international-desktop">
+<div class="nav-international-container">
+<div class="dropdown-section nav-column-container">
+<div class="nav-column-50">
+<div id="select-regions" class="nav-box regions">
+<h3>Region</h3>
+<ul class="region-ul">
+<li class="region active current"><a class="nav-item select-region" href="javascript:;" data-target="us">Americas</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="eu">Europe</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="kr">Korea</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="tw">Taiwan</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="cn">China</a></li>
+</ul>
+</div>
+</div>
+<div class="nav-column-50">
+<div id="select-language" class="nav-box languages">
+<h3>Language</h3>
+<div class="region region-languages active current" data-region="us">
+<ul class="region-ul">
+<li class="active current">
+<a class="nav-item select-language" href="http://us.battle.net/d3/en-us/item/helm/" data-target="us" data-language="en-us">English (US)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://us.battle.net/d3/es-mx/item/helm/" data-target="us" data-language="es-mx">Español (AL)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://us.battle.net/d3/pt-br/item/helm/" data-target="us" data-language="pt-br">Português (AL)</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="eu">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/de-de/item/helm/" data-target="eu" data-language="de-de">Deutsch</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/en-gb/item/helm/" data-target="eu" data-language="en-gb">English (EU)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/es-es/item/helm/" data-target="eu" data-language="es-es">Español (EU)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/fr-fr/item/helm/" data-target="eu" data-language="fr-fr">Français</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/it-it/item/helm/" data-target="eu" data-language="it-it">Italiano</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/pl-pl/item/helm/" data-target="eu" data-language="pl-pl">Polski</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/ru-ru/item/helm/" data-target="eu" data-language="ru-ru">Русский</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="kr">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://kr.battle.net/d3/ko-kr/item/helm/" data-target="kr" data-language="ko-kr">한국어</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="tw">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://tw.battle.net/d3/zh-tw/item/helm/" data-target="tw" data-language="zh-tw">繁體中文</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="cn">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://www.diablo3.com.cn" data-target="cn" data-language="zh-cn">简体中文</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="dropdown-section dropdown-well nav-box localeChange">
+<a id="nav-client-change-language-desktop" href="javascript:;" class="nav-lang-change nav-btn">Change</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav-section">
+<div class="nav-left nav-logo-group">
+<div class="footer-logo nav-left">
+<a class="nav-item logo-link" href="http://us.blizzard.com/" data-analytics="global-nav" data-analytics-placement="Footer - Blizzard Logo"><img class="blizzard-logo" src="/d3/static/images/nav-client/blizzard.png?v=58-96" alt="" /></a>
+</div>
+<div class="footer-links nav-left">
+<a class="nav-item nav-a" href="http://jobs.blizzard.com/" data-analytics="global-nav" data-analytics-placement="Footer - Careers">Careers</a>
+<span>|</span>
+<a class="nav-item nav-a" href="http://us.blizzard.com/company/about/" data-analytics="global-nav" data-analytics-placement="Footer - About">About</a>
+<span>|</span>
+<a class="nav-item nav-a" href="http://us.blizzard.com/company/about/privacy.html" data-analytics="global-nav" data-analytics-placement="Footer - Privacy">Privacy</a>
+<span>|</span>
+<a class="nav-item nav-a" href="http://us.blizzard.com/company/legal/" data-analytics="global-nav" data-analytics-placement="Footer - Terms">Terms</a>
+<span>|</span>
+<a class="nav-item nav-a" href="//dev.battle.net" data-analytics="global-nav" data-analytics-placement="Footer - API">API</a>
+<div class="copyright">©2017 Blizzard Entertainment, Inc.</div>
+<div class="nav-footer-icon-container">
+<ul class="nav-footer-icon-list">
+</ul>
+</div>
+</div>
+</div>
+<div class="nav-ratings">
+<div class="legal-rating">
+<div class="product-rating esrb-rating clearfix">
+<a href="http://www.esrb.org/ratings/ratings_guide.jsp" tabindex="1" rel="external" target="_blank">
+<img class="esrb-logo" src="/d3/static/images/legal/ratings/esrb/en/m.png?v=58-96"
+alt="ESRB Content Rating: M (Mature)" title=""
+width="65" height="97" />
+</a>
+<span class="esrb-descriptor"><span class="esrb-descriptor-label" title="Depictions of blood or the mutilation of body parts.">Blood and Gore</span></span>
+<span class="esrb-descriptor"><span class="esrb-descriptor-label" title="Scenes involving aggressive conflict. May contain bloodless dismemberment.">Violence</span></span>
+<span class="esrb-descriptor"><span class="esrb-descriptor-label" title="Brief and/or mild depictions of nudity.">Partial Nudity</span></span>
+<span class="esrb-disclaimer">Online Interactions Not Rated by the ESRB</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+//<![CDATA[
+var xsToken = '';
+var supportToken = '';
+var jsonSearchHandlerUrl = '\//us.battle.net';
+var Msg = Msg || {};
+Msg.support = {
+ticketNew: 'Ticket {0} was created.',
+ticketStatus: 'Ticket {0}’s status changed to {1}.',
+ticketOpen: 'Open',
+ticketAnswered: 'Answered',
+ticketResolved: 'Resolved',
+ticketCanceled: 'Canceled',
+ticketArchived: 'Archived',
+ticketInfo: 'Need Info',
+ticketAll: 'View All Tickets'
+};
+Msg.cms = {
+requestError: 'Your request cannot be completed.',
+ignoreNot: 'Not ignoring this user',
+ignoreAlready: 'Already ignoring this user',
+stickyRequested: 'Sticky requested',
+stickyHasBeenRequested: 'You have already sent a sticky request for this topic.',
+postAdded: 'Post added to tracker',
+postRemoved: 'Post removed from tracker',
+userAdded: 'User added to tracker',
+userRemoved: 'User removed from tracker',
+validationError: 'A required field is incomplete',
+characterExceed: 'The post body exceeds XXXXXX characters.',
+searchFor: "Search for",
+searchTags: "Articles tagged:",
+characterAjaxError: "You may have become logged out. Please refresh the page and try again.",
+ilvl: "Level {0}",
+shortQuery: "Search requests must be at least three characters long.",
+editSuccess: "Success. Reload?",
+postDelete: "Are you sure you want to delete this post?",
+throttleError: "You must wait before you can post again."
+};
+Msg.bml= {
+bold: 'Bold',
+italics: 'Italics',
+underline: 'Underline',
+list: 'Unordered List',
+listItem: 'List Item',
+quote: 'Quote',
+quoteBy: 'Posted by {0}',
+unformat: 'Remove Formating',
+cleanup: 'Fix Linebreaks',
+code: 'Code Blocks',
+item: 'WoW Item',
+itemPrompt: 'Item ID:',
+url: 'URL',
+urlPrompt: 'URL Address:'
+};
+Msg.ui= {
+submit: 'Submit',
+cancel: 'Cancel',
+reset: 'Reset',
+viewInGallery: 'View in gallery',
+loading: 'Loading…',
+unexpectedError: 'An error has occurred',
+fansiteFind: 'Find this on…',
+fansiteFindType: 'Find {0} on…',
+fansiteNone: 'No fansites available.',
+flashErrorHeader: 'Adobe Flash Player must be installed to see this content.',
+flashErrorText: 'Download Adobe Flash Player',
+flashErrorUrl: 'http://get.adobe.com/flashplayer/',
+save: 'Save'
+};
+Msg.grammar= {
+colon: '{0}:',
+first: 'First',
+last: 'Last',
+ellipsis: '…'
+};
+Msg.fansite= {
+achievement: 'achievement',
+character: 'character',
+faction: 'faction',
+'class': 'class',
+object: 'object',
+talentcalc: 'talents',
+skill: 'profession',
+quest: 'quest',
+spell: 'spell',
+event: 'event',
+title: 'title',
+arena: 'arena team',
+guild: 'guild',
+zone: 'zone',
+item: 'item',
+race: 'race',
+npc: 'NPC',
+pet: 'pet'
+};
+Msg.search= {
+noResults: 'There are no results to display.',
+kb: 'Support',
+post: 'Forums',
+article: 'Blog Articles',
+static: 'General Content',
+wowcharacter: 'Characters',
+wowitem: 'Items',
+wowguild: 'Guilds',
+wowarenateam: 'Arena Teams',
+url: 'Suggested Links',
+friend: 'Friends',
+product: 'Marketplace Products',
+other: 'Other'
+};
+//]]>
+</script>
+<script type="text/javascript" src="/d3/static/js/libs/toolkit-modal.js?v=96"></script>
+<script type="text/javascript" src="/d3/static/js/d3.js?v=96"></script>
+<script type="text/javascript" src="/d3/static/js/nav-client/navbar-tk.min.js?v=96"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.nav.notifications.endpoint = "";
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+$(function(){
+Menu.initialize('/data/menu.json');
+Search.initialize('/d3/en/search/ta');
+Tooltip.maxWidth = 350;
+});
+//]]>
+</script>
+<script type="text/javascript" src="/d3/static/js/blog/responsive-blog-design.min.js?v=96"></script>
+<script type="text/javascript" src="/d3/static/local-common/js/utility/dataset.js?v=58-96"></script>
+<script type="text/javascript" src="/d3/static/js/db.js?v=58-96"></script>
+<script type="text/javascript" src="/d3/static/js/item/browse.js?v=58-96"></script>
+<div id="modal" class="modal hide">
+<div class="modal-content">
+<div class="modal__media"></div>
+<div class="modal-corner modal-corner-top-left"></div>
+<div class="modal-corner modal-corner-top-right"></div>
+<div class="modal-corner modal-corner-bottom-left"></div>
+<div class="modal-corner modal-corner-bottom-right"></div>
+<div class="modal-border modal-border-top"></div>
+<div class="modal-border modal-border-right"></div>
+<div class="modal-border modal-border-bottom"></div>
+<div class="modal-border modal-border-left"></div>
+<div class="modal-controls">
+<div class="prev arrow-tab modal-navigation"><div class="heroes-arrow"></div></div>
+<div class="next arrow-tab modal-navigation"><div class="heroes-arrow"></div></div>
+</div>
+<span class="media-btn close">×</span>
+</div>
+</div>
+</body>
+</html>
