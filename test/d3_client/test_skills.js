@@ -1,14 +1,14 @@
 var assert = require('chai').assert;
 var nock = require('nock');
 
-var client = require('../lib/d3_client_en');
+var client = require('../../lib/d3_client_en');
 
 describe('d3_client_en', function() {
   describe('#skills', function() {
     it('should get active skills list', function(done) {
       nock('http://us.battle.net/d3/en/class/barbarian/active')
         .get('/')
-        .replyWithFile(200, './test/mock/20170130.barbarian.active.html');
+        .replyWithFile(200, './test/mock/skills/barbarian.active.html.20170130');
 
       client.getSkills('barbarian', true, function(e, skills) {
         assert.equal(e, null);
@@ -63,7 +63,7 @@ describe('d3_client_en', function() {
     it('should get passive skills list', function(done) {
       nock('http://us.battle.net/d3/en/class/barbarian/passive')
         .get('/')
-        .replyWithFile(200, './test/mock/20170130.barbarian.passive.html');
+        .replyWithFile(200, './test/mock/skills/barbarian.passive.html.20170130');
 
       client.getSkills('barbarian', false, function(e, skills) {
         assert.equal(e, null);
