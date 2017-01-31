@@ -10,7 +10,11 @@ describe('d3_client_en', function() {
         .get('/')
         .replyWithFile(200, './test/mock/skills/barbarian.active.html.20170130');
 
-      client.getSkills('barbarian', true, function(e, skills) {
+      var opts = {
+        cid:    'barbarian',
+        active: true,
+      };
+      client.getSkills(opts, function(e, skills) {
         assert.equal(e, null);
         assert.equal(skills.length, 23);
 
@@ -65,7 +69,11 @@ describe('d3_client_en', function() {
         .get('/')
         .replyWithFile(200, './test/mock/skills/barbarian.passive.html.20170130');
 
-      client.getSkills('barbarian', false, function(e, skills) {
+      var opts = {
+        cid:    'barbarian',
+        active: false,
+      };
+      client.getSkills(opts, function(e, skills) {
         assert.equal(e, null);
         assert.equal(skills.length, 19);
 
