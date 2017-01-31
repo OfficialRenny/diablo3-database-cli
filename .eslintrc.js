@@ -14,6 +14,7 @@ module.exports = {
       "no-unused-vars": 1,
       "no-var": 0,
       "no-warning-comments": 0,
+      "prefer-rest-params": 0,
       "quote-props": 1,
       "require-jsdoc": 0,
     }
