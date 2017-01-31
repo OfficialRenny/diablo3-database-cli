@@ -1,0 +1,1281 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us">
+<head xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<meta http-equiv="imagetoolbar" content="false" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>Items - Game Guide - Diablo III</title>
+<link rel="icon" href="/d3/static/images/icons/favicon.ico?v=58-96" type="image/x-icon" />
+<link rel="shortcut icon" href="/d3/static/images/icons/favicon.ico?v=58-96" type="image/x-icon" />
+<link title="Diablo® III - News" href="/d3/en/feed/news" type="application/atom+xml" rel="alternate" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://us.battle.net/en-us/data/opensearch" title="Battle.net Search" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/local-common/css/common-game-site.min.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/legal/ratings.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/d3.css?v=96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/nav-client/nav-client-desktop.css?v=96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/tooltips.css?v=96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/db.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/db/index.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/item/index.css?v=58-96" />
+<!--[if IE 6]> <link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/tooltips-ie6.css?v=96" />
+<![endif]-->
+<script type="text/javascript" src="/d3/static/local-common/js/third-party.js?v=58-96"></script>
+<script type="text/javascript" src="/d3/static/local-common/js/common-game-site.min.js?v=58-96"></script>
+<meta name="robots" content="" />
+<meta name="title" content="Items" />
+<meta name="description" content="" />
+<meta name="keywords" content="Items" />
+<meta name="identifier" content="guide-items-index" />
+<meta name="type" content="guide" />
+<meta name="icon" content="/d3/static/images/game/guide/icon-shield.png?v=58-96" />
+<meta name="language" content="en-us" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Items - Game Guide - Diablo III" />
+<meta name="twitter:description" content="It’s in your best interest to bedeck yourself in quality pieces of equipment. Belts, rings, sandals and similar accoutrements aren’t just for looking good - these items are often enchanted to make you swifter or safer. Some can even enhance your skills." />
+<meta name="twitter:image:src" content="http://media.blizzard.com/d3/icons/items/large/a2c2emptycage_demonhunter_male.png" />
+<!--[if IE 6]> <script type="text/javascript">
+//<![CDATA[
+try { document.execCommand('BackgroundImageCache', false, true) } catch(e) {}
+//]]>
+</script>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+var Core = Core || {},
+Login = Login || {};
+Core.staticUrl = '/d3/static';
+Core.sharedStaticUrl = '/d3/static/local-common';
+Core.baseUrl = '/d3/en';
+Core.projectUrl = '/d3';
+Core.cdnUrl = 'http://media.blizzard.com';
+Core.supportUrl = 'http://us.battle.net/support/';
+Core.secureSupportUrl = 'https://us.battle.net/support/';
+Core.project = 'd3';
+Core.locale = 'en-us';
+Core.language = 'en';
+Core.region = 'us';
+Core.shortDateFormat = 'MM/dd/yyyy';
+Core.dateTimeFormat = 'MM/dd/yyyy hh:mm a';
+Core.loggedIn = false;
+Core.userAgent = 'web';
+Login.embeddedUrl = 'https://us.battle.net/login/login.frag';
+var Flash = Flash || {};
+Flash.videoPlayer = 'http://media.blizzard.com/global-video-player/themes/d3/video-player.swf';
+Flash.videoBase = 'http://media.blizzard.com/d3/media/videos';
+Flash.ratingImage = 'http://media.blizzard.com/global-video-player/ratings/d3/en-us.jpg';
+Flash.expressInstall = 'http://media.blizzard.com/global-video-player/expressInstall.swf';
+//]]>
+</script>
+<meta property="fb:app_id" content="155068716934" />
+<meta property="og:site_name" content="Diablo III" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://us.battle.net/d3/en/item/" />
+<meta property="og:image" content="http://media.blizzard.com/d3/icons/items/large/a2c2emptycage_demonhunter_male.png" />
+<meta property="og:image" content="http://media.blizzard.com/battle.net/logos/og-d3.png" />
+<meta property="og:image" content="http://media.blizzard.com/battle.net/logos/og-blizzard.png" />
+<meta property="og:title" content="Items" />
+<meta property="og:description" content="It’s in your best interest to bedeck yourself in quality pieces of equipment. Belts, rings, sandals and similar accoutrements aren’t just for looking good - these items are often enchanted to make you swifter or safer. Some can even enhance your skills." />
+<link rel="canonical" href="http://us.battle.net/d3/en/item/" />
+</head>
+<body class="en-us db-index item-index" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<script>
+//<![CDATA[
+var dataLayer = [{
+"authenticated": "0" }];
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!="dataLayer"?"&amp;l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);})
+(window,document,"script","dataLayer","GTM-M39SFZ");
+//]]>
+</script>
+<div id="nav-client-header" class="nav-client compact">
+<div id="nav-client-bar">
+<div class="grid-container nav-header-content">
+<ul class="nav-list nav-left" id="nav-client-main-menu">
+<li>
+<a id="nav-client-home" class="nav-item nav-home" href="http://us.battle.net/" data-analytics="global-nav" data-analytics-placement="Nav - Battle.net Icon"></a>
+</li>
+<li>
+<div class="dropdown games">
+<a class="dropdown-toggle nav-link needsclick active" data-toggle="dropdown">
+Games
+<b class="caret"></b>
+</a>
+<div class="dropdown-menu">
+<ul class="nav-product-card-container games-menu" role="menu">
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/wow/" data-analytics="global-nav" data-analytics-placement="Nav - Games - World of Warcraft"><i class="nav-icon-wow"></i>World of Warcraft®</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/d3/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Diablo III"><i class="nav-icon-d3"></i>Diablo® III</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/sc2/" data-analytics="global-nav" data-analytics-placement="Nav - Games - StarCraft II"><i class="nav-icon-sc2"></i>StarCraft® II</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/hearthstone/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Hearthstone"><i class="nav-icon-hearthstone"></i>Hearthstone®</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/heroes/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Heroes of the Storm"><i class="nav-icon-heroes"></i>Heroes of the Storm™</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/overwatch/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Overwatch"><i class="nav-icon-overwatch"></i>Overwatch™</a>
+</li>
+</ul>
+<div class="dropdown-well dropdown-section download-btn">
+<a class="nav-item nav-a nav-item-box" href="http://us.battle.net/games/classic" data-analytics="global-nav" data-analytics-placement="Nav - Games - Classic Games"><i class="nav-icon-24-blue nav-icon-mouse"></i>Classic Games</a>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a id="nav-client-shop" class="nav-item nav-link needsclick" href="https://us.battle.net/shop/" data-analytics="global-nav" data-analytics-placement="Nav - Shop">Shop</a>
+</li>
+</ul>
+<ul class="nav-list nav-right" id="nav-client-account-menu">
+<li>
+<div id="username">
+<div class="dropdown pull-right">
+<a class="nav-link username username--loggedout needsclick dropdown-toggle" data-toggle="dropdown" rel="navbar">
+Your account
+<b class="caret"></b>
+</a>
+<div class="dropdown-menu">
+<div class="arrow top"></div>
+<div class="user-profile">
+<div class="dropdown-section">
+<div class="nav-box">
+<a class="nav-item nav-btn nav-btn-block nav-login-btn" href="?login" data-analytics="global-nav" data-analytics-placement="Nav - Account - Log In">Log In</a>
+</div>
+</div>
+<div class="dropdown-section">
+<ul class="nav-list">
+<li>
+<a class="nav-item nav-a nav-item-box" href="http://us.battle.net/account/management/" data-analytics="global-nav" data-analytics-placement="Nav - Account - Settings"><i class="nav-icon-24-blue nav-icon-character-cog"></i>Account Settings</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a id="nav-client-support-link" class="nav-item nav-link needsclick" href="http://us.battle.net/support/" data-analytics="global-nav" data-analytics-placement="Nav - Support"> Support </a>
+</li>
+<li>
+<div class="nav-notification-icon">
+<a class="dropdown-toggle needsclick nav-item" rel="navbar">
+<i class="needsclick nav-icon-bell"></i>
+</a>
+<div class="nav-notification-dropdown dropdown-menu">
+<div class="arrow top"></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="nav-notification-responsive-container">
+<div class="nav-notification-dropdown dropdown-menu">
+<div class="arrow top"></div>
+</div>
+</div>
+</div>
+<div class="bg-wrapper">
+<div class="wrapper">
+<div class="head">
+<h1 class="logo">
+<a href="/d3/en/">Diablo® III</a>
+</h1>
+<a href="javascript:;" class="skull-eyes" id="skull-eyes"></a>
+<div class="try-free">
+<span class="try-free-label">New to Diablo III?</span>
+<a class="button-game" href="https://us.battle.net/account/activation/landing.html?product=D3&amp;d3Gateway" data-analytics="d3-starter-edition" data-analytics-placement="Masthead">
+<span class="button-game-bg-left"></span>
+<span class="button-game-bg-mid">
+<span>Try Free Now</span>
+</span>
+<span class="button-game-bg-right"></span>
+</a>
+</div>
+<div class="search-bar">
+<form action="/d3/en/search" method="get" autocomplete="off">
+<div>
+<input type="search" class="search-field input" name="q" id="search-field" maxlength="200" tabindex="40" alt="Search Diablo III..." value="Search Diablo III..." />
+<input type="submit" class="search-button" value="" tabindex="41" />
+</div>
+</form>
+</div>
+<ul class="menu" id="menu">
+<li class="menu-home" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/">
+<span itemprop="name">Home</span>
+</a>
+</li>
+<li class="menu-game" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/game/" class="menu-active">
+<span itemprop="name">Game Guide</span>
+</a>
+</li>
+<li class="menu-rankings" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/rankings/">
+<span itemprop="name">Rankings</span>
+</a>
+</li>
+<li class="menu-media" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/media/">
+<span itemprop="name">Media</span>
+</a>
+</li>
+<li class="menu-forums" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="https://us.battle.net/forums/en/d3/">
+<span itemprop="name">Forums</span>
+</a>
+</li>
+<li class="menu-purchase" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/purchase">
+<span itemprop="name">Buy Now</span>
+</a>
+</li>
+</ul>
+<div class="character-card card-login ajax-update">
+<a href="?login" class="click-area login" onclick="return Login.open('https://us.battle.net/login/login.frag');">
+<span class="inner"> <strong>Log in now</strong> to enhance and personalize your experience!
+</span>
+<span class="avatar-frame">
+<span class="no-avatar"></span>
+<span class="border"></span>
+</span>
+</a>
+</div>
+</div>
+<div class="body" itemscope="itemscope" itemtype="http://schema.org/WebPageElement">
+<div class="body-top">
+<div class="body-bot">
+	<div class="page-header">
+
+
+	<h2 class="header-2" >			Items
+</h2>
+
+		<div class="desc">
+			It’s in your best interest to bedeck yourself in quality pieces of equipment. Belts, rings, sandals and similar accoutrements aren’t just for looking good - these items are often enchanted to make you swifter or safer. Some can even enhance your skills.
+		</div>
+	</div>
+
+	<div class="page-body">
+	<div class="equipment-filter" id="equipment-filter">
+
+		<div class="filter-group filter-group-class">
+			<div class="filter-label">Filter by class:</div>
+			<div class="filter-icons">
+					<a href="javascript:;" data-slug="barbarian" data-tooltip="Barbarian" data-tooltip-options='{"location": "bottomCenter"}'>
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/barbarian_male.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+					</a>
+					<a href="javascript:;" data-slug="crusader" data-tooltip="Crusader" data-tooltip-options='{"location": "bottomCenter"}'>
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/x1_crusader_male.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+					</a>
+					<a href="javascript:;" data-slug="demon-hunter" data-tooltip="Demon Hunter" data-tooltip-options='{"location": "bottomCenter"}'>
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/demonhunter_female.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+					</a>
+					<a href="javascript:;" data-slug="monk" data-tooltip="Monk" data-tooltip-options='{"location": "bottomCenter"}'>
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/monk_male.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+					</a>
+					<a href="javascript:;" data-slug="witch-doctor" data-tooltip="Witch Doctor" data-tooltip-options='{"location": "bottomCenter"}'>
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/witchdoctor_male.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+					</a>
+					<a href="javascript:;" data-slug="wizard" data-tooltip="Wizard" data-tooltip-options='{"location": "bottomCenter"}'>
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/wizard_female.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+					</a>
+			</div>
+		</div>
+
+		<div class="filter-group filter-group-follower">
+			<div class="filter-label">By follower:</div>
+			<div class="filter-icons">
+					<a href="javascript:;" data-slug="templar" data-tooltip="Templar" data-tooltip-options='{"location": "bottomCenter"}'>
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/templar.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+					</a>
+					<a href="javascript:;" data-slug="scoundrel" data-tooltip="Scoundrel" data-tooltip-options='{"location": "bottomCenter"}'>
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/scoundrel.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+					</a>
+					<a href="javascript:;" data-slug="enchantress" data-tooltip="Enchantress" data-tooltip-options='{"location": "bottomCenter"}'>
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/enchantress.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+					</a>
+			</div>
+		</div>
+
+		<div class="filter-group filter-group-artisan">
+			<div class="filter-label">By artisan:</div>
+			<div class="filter-icons">
+					<a href="javascript:;" data-slug="blacksmith" data-tooltip="Blacksmith" data-tooltip-options='{"location": "bottomCenter"}'>
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/pt_blacksmith.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+					</a>
+					<a href="javascript:;" data-slug="jeweler" data-tooltip="Jeweler" data-tooltip-options='{"location": "bottomCenter"}'>
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/pt_jeweler.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+					</a>
+					<a href="javascript:;" data-slug="mystic" data-tooltip="Mystic" data-tooltip-options='{"location": "bottomCenter"}'>
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/pt_mystic.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+					</a>
+			</div>
+		</div>
+
+		<div class="filter-group filter-group-reset" id="filter-reset" style="display: none;">
+
+<button class="ui-button button2 filter-reset" type="submit"><span class="button-left"><span class="button-right"> Clear filter
+<b class="icon-16 icon-16-close"></b>
+</span></span></button>		</div>
+
+	<span class="clear"><!-- --></span>
+	</div>
+
+	<div class="db-directory">
+		<div class="db-directory-inner">
+		<div class="columns" id="equipment">
+			<div class="column-1">
+	
+
+	<h3 class="header-3" >Armor</h3>
+
+
+			<div class="half-column">
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Head</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/helm/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter artisan-jeweler artisan-blacksmith">
+							Helms
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/spirit-stone/" class=" class-monk artisan-jeweler artisan-blacksmith">
+							Spirit Stones
+
+								<span data-tooltip="Only the Monk can equip these items.">
+									Monk
+								</span>
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/voodoo-mask/" class=" class-witch-doctor artisan-jeweler artisan-blacksmith">
+							Voodoo Masks
+
+								<span data-tooltip="Only the Witch Doctor can equip these items.">
+									WD
+								</span>
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/wizard-hat/" class=" class-wizard artisan-jeweler artisan-blacksmith">
+							Wizard Hats
+
+								<span data-tooltip="Only the Wizard can equip these items.">
+									Wiz
+								</span>
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Shoulders</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/pauldrons/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter artisan-mystic artisan-blacksmith">
+							Pauldrons
+
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Torso</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/chest-armor/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter artisan-jeweler artisan-blacksmith">
+							Chest Armor
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/cloak/" class=" class-demon-hunter artisan-jeweler artisan-blacksmith">
+							Cloaks
+
+								<span data-tooltip="Only the Demon Hunter can equip these items.">
+									DH
+								</span>
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Wrists</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/bracers/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter artisan-jeweler artisan-blacksmith">
+							Bracers
+
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Hands</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/gloves/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter artisan-mystic artisan-blacksmith">
+							Gloves
+
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Waist</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/belt/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter artisan-jeweler artisan-blacksmith">
+							Belts
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/mighty-belt/" class=" class-barbarian artisan-jeweler artisan-blacksmith">
+							Mighty Belts
+
+								<span data-tooltip="Only the Barbarian can equip these items.">
+									Barb
+								</span>
+						</a>
+					</li>
+			</ul>
+	</div>
+			</div>
+			<div class="half-column">
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Legs</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/pants/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter artisan-mystic artisan-blacksmith">
+							Pants
+
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Feet</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/boots/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter artisan-mystic artisan-blacksmith">
+							Boots
+
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Jewelry</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/amulet/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter follower-scoundrel follower-templar follower-enchantress artisan-jeweler">
+							Amulets
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/ring/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter follower-scoundrel follower-templar follower-enchantress artisan-mystic">
+							Rings
+
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Off-Hand</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/shield/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter follower-templar artisan-jeweler artisan-blacksmith">
+							Shields
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/crusader-shield/" class=" class-crusader">
+							Crusader Shields
+
+								<span data-tooltip="Only the Crusader can equip these items.">
+									Cru
+								</span>
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/mojo/" class=" class-witch-doctor">
+							Mojos
+
+								<span data-tooltip="Only the Witch Doctor can equip these items.">
+									WD
+								</span>
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/orb/" class=" class-wizard">
+							Orbs
+
+								<span data-tooltip="Only the Wizard can equip these items.">
+									Wiz
+								</span>
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/quiver/" class=" class-demon-hunter">
+							Quivers
+
+								<span data-tooltip="Only the Demon Hunter can equip these items.">
+									DH
+								</span>
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Follower Special</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/enchantress-focus/" class=" follower-enchantress">
+							Enchantress Focuses
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/scoundrel-token/" class=" follower-scoundrel">
+							Scoundrel Tokens
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/templar-relic/" class=" follower-templar">
+							Templar Relics
+
+						</a>
+					</li>
+			</ul>
+	</div>
+			</div>
+			</div>
+
+			<div class="column-2">
+	
+
+	<h3 class="header-3" >Weapons</h3>
+
+
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >One-Handed</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/axe-1h/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter follower-templar follower-enchantress artisan-mystic artisan-blacksmith">
+							Axes
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/dagger/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter follower-templar follower-enchantress artisan-mystic artisan-blacksmith">
+							Daggers
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/mace-1h/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter follower-templar follower-enchantress artisan-mystic artisan-blacksmith">
+							Maces
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/spear/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter follower-templar follower-enchantress artisan-mystic artisan-blacksmith">
+							Spears
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/sword-1h/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter follower-templar follower-enchantress artisan-mystic artisan-blacksmith">
+							Swords
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/ceremonial-knife/" class=" class-witch-doctor artisan-mystic artisan-blacksmith">
+							Ceremonial Knives
+
+								<span data-tooltip="Only the Witch Doctor can equip these items.">
+									WD
+								</span>
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/fist-weapon/" class=" class-monk artisan-mystic artisan-blacksmith">
+							Fist Weapons
+
+								<span data-tooltip="Only the Monk can equip these items.">
+									Monk
+								</span>
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/flail-1h/" class=" class-crusader artisan-mystic artisan-blacksmith">
+							Flails
+
+								<span data-tooltip="Only the Crusader can equip these items.">
+									Cru
+								</span>
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/mighty-weapon-1h/" class=" class-barbarian artisan-mystic artisan-blacksmith">
+							Mighty Weapons
+
+								<span data-tooltip="Only the Barbarian can equip these items.">
+									Barb
+								</span>
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Two-Handed</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/axe-2h/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard follower-enchantress artisan-mystic artisan-blacksmith">
+							Axes
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/mace-2h/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard follower-enchantress artisan-mystic artisan-blacksmith">
+							Maces
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/polearm/" class=" class-monk class-witch-doctor class-barbarian class-crusader artisan-mystic artisan-blacksmith">
+							Polearms
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/staff/" class=" class-monk class-witch-doctor class-wizard follower-enchantress artisan-mystic artisan-blacksmith">
+							Staves
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/sword-2h/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard follower-enchantress artisan-mystic artisan-blacksmith">
+							Swords
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/daibo/" class=" class-monk artisan-mystic artisan-blacksmith">
+							Daibo
+
+								<span data-tooltip="Only the Monk can equip these items.">
+									Monk
+								</span>
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/flail-2h/" class=" class-crusader artisan-mystic artisan-blacksmith">
+							Flails
+
+								<span data-tooltip="Only the Crusader can equip these items.">
+									Cru
+								</span>
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/mighty-weapon-2h/" class=" class-barbarian artisan-mystic artisan-blacksmith">
+							Mighty Weapons
+
+								<span data-tooltip="Only the Barbarian can equip these items.">
+									Barb
+								</span>
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Ranged</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/bow/" class=" class-witch-doctor class-wizard class-demon-hunter follower-scoundrel artisan-mystic artisan-blacksmith">
+							Bows
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/crossbow/" class=" class-witch-doctor class-wizard class-demon-hunter follower-scoundrel artisan-blacksmith">
+							Crossbows
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/hand-crossbow/" class=" class-demon-hunter artisan-blacksmith">
+							Hand Crossbows
+
+								<span data-tooltip="Only the Demon Hunter can equip these items.">
+									DH
+								</span>
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/wand/" class=" class-wizard artisan-mystic artisan-blacksmith">
+							Wands
+
+								<span data-tooltip="Only the Wizard can equip these items.">
+									Wiz
+								</span>
+						</a>
+					</li>
+			</ul>
+	</div>
+			</div>
+
+			<div class="column-3">
+	
+
+	<h3 class="header-3" >Other</h3>
+
+
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Consumables</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/potion/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter">
+							Potions
+
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="box">
+			
+
+
+	<h3 class="subheader-3" >Crafting</h3>
+
+
+			<ul class="list-items">
+					<li>
+						<a href="/d3/en/item/crafting-material/" class=" artisan-jeweler artisan-mystic artisan-blacksmith">
+							Crafting Materials
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/blacksmith-plan/" class=" artisan-blacksmith">
+							Blacksmith Plans
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/jeweler-design/" class=" artisan-jeweler">
+							Jeweler Designs
+
+						</a>
+					</li>
+					<li>
+						<a href="/d3/en/item/page-of-training/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter">
+							Pages of Training
+
+						</a>
+					</li>
+			</ul>
+	</div>
+	<div class="box">
+			<a href="/d3/en/item/dye/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter">Dyes</a>
+	</div>
+	<div class="box">
+			<a href="/d3/en/item/gem/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter artisan-jeweler">Gems</a>
+	</div>
+	<div class="box">
+			<a href="/d3/en/item/misc/" class=" class-monk class-witch-doctor class-barbarian class-crusader class-wizard class-demon-hunter">Miscellaneous</a>
+	</div>
+			</div>
+
+	<span class="clear"><!-- --></span>
+		</div>
+	<span class="clear"><!-- --></span>
+		</div>
+	</div>
+	</div>
+
+<span class="clear"><!-- --></span>
+<div class="social-media-container no-font-boost">
+<h2 class="social-media-title">Stay Connected</h2>
+<ul class="social-media">
+<li class="atom-feed">
+<a href="/d3/en/feed/news" target="_blank"></a>
+</li>
+<li class="facebook">
+<a href="https://www.facebook.com/Diablo" title=""></a>
+</li>
+<li class="twitter">
+<a href="https://twitter.com/Diablo" title=""></a>
+</li>
+<li class="youtube">
+<a href="https://www.youtube.com/Diablo" title=""></a>
+</li>
+<li class="reddit">
+<a href="http://www.reddit.com/r/diablo" title="Diablo on reddit"></a>
+</li>
+<span class="clear"><!-- --></span>
+</ul>
+</div>
+<a href="javascript:;" class="chat-gem" id="chat-gem"></a>
+</div>
+</div>
+<div class="body-trail">
+<ol class="ui-breadcrumb">
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Diablo III</span>
+</a>
+</li>
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/game/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Game Guide</span>
+</a>
+</li>
+<li class="last" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/item/" rel="np" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Items</span>
+</a>
+</li>
+</ol>
+<span class="clear"><!-- --></span>
+</div>
+</div>
+<div class="nav-footer-wrapper">
+<div id="nav-client-footer" class="nav-client">
+<div class="footer-content footer-desktop grid-container"> <div class="nav-section support-feedback">
+<div class="nav-left">
+<div id="nav-feedback">
+<a id="nav-client-news" class="nav-item nav-a nav-item-btn" href="http://us.battle.net/support/" data-analytics="global-nav" data-analytics-placement="Footer - Support"><i class="nav-icon-24-blue nav-icon-question-circle"></i>Support</a>
+<a class="nav-item nav-a nav-item-btn" href="https://us.battle.net/feedback" data-analytics="global-nav" data-analytics-placement="Footer - Feedback"><i class="nav-icon-24-blue nav-icon-edit"></i>Feedback</a>
+</div>
+</div>
+<div class="nav-right">
+<div id="nav-client-region-select">
+<div class="dropdown dropup pull-right">
+<a class="dropdown-toggle nav-item" data-toggle="dropdown">
+<i class="nav-icon-24-blue nav-icon-globe"></i>Americas - English (US)<b class="caret"></b>
+</a>
+<div class="dropdown-menu" data-placement="top">
+<div class="arrow bottom"></div>
+<div id="nav-client-international-desktop">
+<div class="nav-international-container">
+<div class="dropdown-section nav-column-container">
+<div class="nav-column-50">
+<div id="select-regions" class="nav-box regions">
+<h3>Region</h3>
+<ul class="region-ul">
+<li class="region active current"><a class="nav-item select-region" href="javascript:;" data-target="us">Americas</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="eu">Europe</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="kr">Korea</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="tw">Taiwan</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="cn">China</a></li>
+</ul>
+</div>
+</div>
+<div class="nav-column-50">
+<div id="select-language" class="nav-box languages">
+<h3>Language</h3>
+<div class="region region-languages active current" data-region="us">
+<ul class="region-ul">
+<li class="active current">
+<a class="nav-item select-language" href="http://us.battle.net/d3/en-us/item/" data-target="us" data-language="en-us">English (US)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://us.battle.net/d3/es-mx/item/" data-target="us" data-language="es-mx">Español (AL)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://us.battle.net/d3/pt-br/item/" data-target="us" data-language="pt-br">Português (AL)</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="eu">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/de-de/item/" data-target="eu" data-language="de-de">Deutsch</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/en-gb/item/" data-target="eu" data-language="en-gb">English (EU)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/es-es/item/" data-target="eu" data-language="es-es">Español (EU)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/fr-fr/item/" data-target="eu" data-language="fr-fr">Français</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/it-it/item/" data-target="eu" data-language="it-it">Italiano</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/pl-pl/item/" data-target="eu" data-language="pl-pl">Polski</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/ru-ru/item/" data-target="eu" data-language="ru-ru">Русский</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="kr">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://kr.battle.net/d3/ko-kr/item/" data-target="kr" data-language="ko-kr">한국어</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="tw">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://tw.battle.net/d3/zh-tw/item/" data-target="tw" data-language="zh-tw">繁體中文</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="cn">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://www.diablo3.com.cn" data-target="cn" data-language="zh-cn">简体中文</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="dropdown-section dropdown-well nav-box localeChange">
+<a id="nav-client-change-language-desktop" href="javascript:;" class="nav-lang-change nav-btn">Change</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav-section">
+<div class="nav-left nav-logo-group">
+<div class="footer-logo nav-left">
+<a class="nav-item logo-link" href="http://us.blizzard.com/" data-analytics="global-nav" data-analytics-placement="Footer - Blizzard Logo"><img class="blizzard-logo" src="/d3/static/images/nav-client/blizzard.png?v=58-96" alt="" /></a>
+</div>
+<div class="footer-links nav-left">
+<a class="nav-item nav-a" href="http://jobs.blizzard.com/" data-analytics="global-nav" data-analytics-placement="Footer - Careers">Careers</a>
+<span>|</span>
+<a class="nav-item nav-a" href="http://us.blizzard.com/company/about/" data-analytics="global-nav" data-analytics-placement="Footer - About">About</a>
+<span>|</span>
+<a class="nav-item nav-a" href="http://us.blizzard.com/company/about/privacy.html" data-analytics="global-nav" data-analytics-placement="Footer - Privacy">Privacy</a>
+<span>|</span>
+<a class="nav-item nav-a" href="http://us.blizzard.com/company/legal/" data-analytics="global-nav" data-analytics-placement="Footer - Terms">Terms</a>
+<span>|</span>
+<a class="nav-item nav-a" href="//dev.battle.net" data-analytics="global-nav" data-analytics-placement="Footer - API">API</a>
+<div class="copyright">©2017 Blizzard Entertainment, Inc.</div>
+<div class="nav-footer-icon-container">
+<ul class="nav-footer-icon-list">
+</ul>
+</div>
+</div>
+</div>
+<div class="nav-ratings">
+<div class="legal-rating">
+<div class="product-rating esrb-rating clearfix">
+<a href="http://www.esrb.org/ratings/ratings_guide.jsp" tabindex="1" rel="external" target="_blank">
+<img class="esrb-logo" src="/d3/static/images/legal/ratings/esrb/en/m.png?v=58-96"
+alt="ESRB Content Rating: M (Mature)" title=""
+width="65" height="97" />
+</a>
+<span class="esrb-descriptor"><span class="esrb-descriptor-label" title="Depictions of blood or the mutilation of body parts.">Blood and Gore</span></span>
+<span class="esrb-descriptor"><span class="esrb-descriptor-label" title="Scenes involving aggressive conflict. May contain bloodless dismemberment.">Violence</span></span>
+<span class="esrb-descriptor"><span class="esrb-descriptor-label" title="Brief and/or mild depictions of nudity.">Partial Nudity</span></span>
+<span class="esrb-disclaimer">Online Interactions Not Rated by the ESRB</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+//<![CDATA[
+var xsToken = '';
+var supportToken = '';
+var jsonSearchHandlerUrl = '\//us.battle.net';
+var Msg = Msg || {};
+Msg.support = {
+ticketNew: 'Ticket {0} was created.',
+ticketStatus: 'Ticket {0}’s status changed to {1}.',
+ticketOpen: 'Open',
+ticketAnswered: 'Answered',
+ticketResolved: 'Resolved',
+ticketCanceled: 'Canceled',
+ticketArchived: 'Archived',
+ticketInfo: 'Need Info',
+ticketAll: 'View All Tickets'
+};
+Msg.cms = {
+requestError: 'Your request cannot be completed.',
+ignoreNot: 'Not ignoring this user',
+ignoreAlready: 'Already ignoring this user',
+stickyRequested: 'Sticky requested',
+stickyHasBeenRequested: 'You have already sent a sticky request for this topic.',
+postAdded: 'Post added to tracker',
+postRemoved: 'Post removed from tracker',
+userAdded: 'User added to tracker',
+userRemoved: 'User removed from tracker',
+validationError: 'A required field is incomplete',
+characterExceed: 'The post body exceeds XXXXXX characters.',
+searchFor: "Search for",
+searchTags: "Articles tagged:",
+characterAjaxError: "You may have become logged out. Please refresh the page and try again.",
+ilvl: "Level {0}",
+shortQuery: "Search requests must be at least three characters long.",
+editSuccess: "Success. Reload?",
+postDelete: "Are you sure you want to delete this post?",
+throttleError: "You must wait before you can post again."
+};
+Msg.bml= {
+bold: 'Bold',
+italics: 'Italics',
+underline: 'Underline',
+list: 'Unordered List',
+listItem: 'List Item',
+quote: 'Quote',
+quoteBy: 'Posted by {0}',
+unformat: 'Remove Formating',
+cleanup: 'Fix Linebreaks',
+code: 'Code Blocks',
+item: 'WoW Item',
+itemPrompt: 'Item ID:',
+url: 'URL',
+urlPrompt: 'URL Address:'
+};
+Msg.ui= {
+submit: 'Submit',
+cancel: 'Cancel',
+reset: 'Reset',
+viewInGallery: 'View in gallery',
+loading: 'Loading…',
+unexpectedError: 'An error has occurred',
+fansiteFind: 'Find this on…',
+fansiteFindType: 'Find {0} on…',
+fansiteNone: 'No fansites available.',
+flashErrorHeader: 'Adobe Flash Player must be installed to see this content.',
+flashErrorText: 'Download Adobe Flash Player',
+flashErrorUrl: 'http://get.adobe.com/flashplayer/',
+save: 'Save'
+};
+Msg.grammar= {
+colon: '{0}:',
+first: 'First',
+last: 'Last',
+ellipsis: '…'
+};
+Msg.fansite= {
+achievement: 'achievement',
+character: 'character',
+faction: 'faction',
+'class': 'class',
+object: 'object',
+talentcalc: 'talents',
+skill: 'profession',
+quest: 'quest',
+spell: 'spell',
+event: 'event',
+title: 'title',
+arena: 'arena team',
+guild: 'guild',
+zone: 'zone',
+item: 'item',
+race: 'race',
+npc: 'NPC',
+pet: 'pet'
+};
+Msg.search= {
+noResults: 'There are no results to display.',
+kb: 'Support',
+post: 'Forums',
+article: 'Blog Articles',
+static: 'General Content',
+wowcharacter: 'Characters',
+wowitem: 'Items',
+wowguild: 'Guilds',
+wowarenateam: 'Arena Teams',
+url: 'Suggested Links',
+friend: 'Friends',
+product: 'Marketplace Products',
+other: 'Other'
+};
+//]]>
+</script>
+<script type="text/javascript" src="/d3/static/js/libs/toolkit-modal.js?v=96"></script>
+<script type="text/javascript" src="/d3/static/js/d3.js?v=96"></script>
+<script type="text/javascript" src="/d3/static/js/nav-client/navbar-tk.min.js?v=96"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.nav.notifications.endpoint = "";
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+$(function(){
+Menu.initialize('/data/menu.json');
+Search.initialize('/d3/en/search/ta');
+Tooltip.maxWidth = 350;
+});
+//]]>
+</script>
+<script type="text/javascript" src="/d3/static/js/blog/responsive-blog-design.min.js?v=96"></script>
+<script type="text/javascript" src="/d3/static/js/db.js?v=58-96"></script>
+<script type="text/javascript" src="/d3/static/js/item/index.js?v=58-96"></script>
+<div id="modal" class="modal hide">
+<div class="modal-content">
+<div class="modal__media"></div>
+<div class="modal-corner modal-corner-top-left"></div>
+<div class="modal-corner modal-corner-top-right"></div>
+<div class="modal-corner modal-corner-bottom-left"></div>
+<div class="modal-corner modal-corner-bottom-right"></div>
+<div class="modal-border modal-border-top"></div>
+<div class="modal-border modal-border-right"></div>
+<div class="modal-border modal-border-bottom"></div>
+<div class="modal-border modal-border-left"></div>
+<div class="modal-controls">
+<div class="prev arrow-tab modal-navigation"><div class="heroes-arrow"></div></div>
+<div class="next arrow-tab modal-navigation"><div class="heroes-arrow"></div></div>
+</div>
+<span class="media-btn close">×</span>
+</div>
+</div>
+</body>
+</html>
