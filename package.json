@@ -32,6 +32,7 @@
   "dependencies": {
     "cheerio": "^0.22.0",
     "request": "^2.79.0",
+    "sprintf-js": "^1.0.3",
     "underscore": "^1.8.3",
     "yargs": "^6.6.0"
   },
