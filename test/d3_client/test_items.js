@@ -42,7 +42,7 @@ describe('d3_client_en', function() {
       var url = 'http://us.battle.net/d3/en/item/';
       client.getItemGroups(url, function(e, groups) {
         assert.equal(e, null);
-        assert.equal(groups.length, 49);
+        assert.equal(groups.length, 52);
         assert.deepEqual(groups[0], {
           name: 'Helms',
           link: 'http://us.battle.net/d3/en/item/helm/',
@@ -50,6 +50,10 @@ describe('d3_client_en', function() {
         assert.deepEqual(groups[48], {
           name: 'Pages of Training',
           link: 'http://us.battle.net/d3/en/item/page-of-training/',
+        });
+        assert.deepEqual(groups[51], {
+          name: 'Miscellaneous',
+          link: 'http://us.battle.net/d3/en/item/misc/',
         });
 
         done();
@@ -66,12 +70,36 @@ describe('d3_client_en', function() {
         assert.equal(e, null);
         assert.equal(items.length, 76);
         assert.deepEqual(items[0], {
+          id:   'helm-of-the-cranial-crustacean',
           name: 'Helm of the Cranial Crustacean',
           link: 'http://us.battle.net/d3/en/item/helm-of-the-cranial-crustacean',
         });
         assert.deepEqual(items[75], {
+          id:   'vyrs-sightless-skull',
           name: 'Vyr\'s Sightless Skull',
           link: 'http://us.battle.net/d3/en/item/vyrs-sightless-skull',
+        });
+
+        done();
+      });
+    });
+
+    it('should get gems in group', function(done) {
+      nock('http://us.battle.net')
+        .get('/d3/en/item/gem/')
+        .replyWithFile(200, './test/mock/items/gem.html.20170201');
+
+      var url = 'http://us.battle.net/d3/en/item/gem/';
+      client.getItemsInGroup(url, function(e, items) {
+        assert.equal(e, null);
+        assert.equal(items.length, 72);
+        assert.deepEqual(items[0], {
+          id:   'bane-of-the-powerful',
+          link: 'http://us.battle.net/d3/en/item/bane-of-the-powerful',
+        });
+        assert.deepEqual(items[71], {
+          id:   'flawless-royal-topaz',
+          link: 'http://us.battle.net/d3/en/artisan/jeweler/recipe/flawless-royal-topaz',
         });
 
         done();

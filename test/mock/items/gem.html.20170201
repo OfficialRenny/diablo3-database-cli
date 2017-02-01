@@ -1,0 +1,2307 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us">
+<head xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<meta http-equiv="imagetoolbar" content="false" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>Gems - Game Guide - Diablo III</title>
+<link rel="icon" href="/d3/static/images/icons/favicon.ico?v=58-96" type="image/x-icon" />
+<link rel="shortcut icon" href="/d3/static/images/icons/favicon.ico?v=58-96" type="image/x-icon" />
+<link title="Diablo® III - News" href="/d3/en/feed/news" type="application/atom+xml" rel="alternate" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://us.battle.net/en-us/data/opensearch" title="Battle.net Search" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/local-common/css/common-game-site.min.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/legal/ratings.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/d3.css?v=96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/nav-client/nav-client-desktop.css?v=96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/tooltips.css?v=96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/db.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/item/browse.css?v=58-96" />
+<!--[if IE 6]> <link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/tooltips-ie6.css?v=96" />
+<![endif]-->
+<script type="text/javascript" src="/d3/static/local-common/js/third-party.js?v=58-96"></script>
+<script type="text/javascript" src="/d3/static/local-common/js/common-game-site.min.js?v=58-96"></script>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Gems - Game Guide - Diablo III" />
+<meta name="twitter:description" content="Gems soak in ambient magic during the time they spend buried in the deep earth of Sanctuary; they provide bonuses to essential attributes and also convey special characteristics, among them great fortune and swifter learning." />
+<meta name="twitter:image:src" content="http://media.blizzard.com/d3/icons/items/large/unique_gem_001_x1_demonhunter_male.png" />
+<!--[if IE 6]> <script type="text/javascript">
+//<![CDATA[
+try { document.execCommand('BackgroundImageCache', false, true) } catch(e) {}
+//]]>
+</script>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+var Core = Core || {},
+Login = Login || {};
+Core.staticUrl = '/d3/static';
+Core.sharedStaticUrl = '/d3/static/local-common';
+Core.baseUrl = '/d3/en';
+Core.projectUrl = '/d3';
+Core.cdnUrl = 'http://media.blizzard.com';
+Core.supportUrl = 'http://us.battle.net/support/';
+Core.secureSupportUrl = 'https://us.battle.net/support/';
+Core.project = 'd3';
+Core.locale = 'en-us';
+Core.language = 'en';
+Core.region = 'us';
+Core.shortDateFormat = 'MM/dd/yyyy';
+Core.dateTimeFormat = 'MM/dd/yyyy hh:mm a';
+Core.loggedIn = false;
+Core.userAgent = 'web';
+Login.embeddedUrl = 'https://us.battle.net/login/login.frag';
+var Flash = Flash || {};
+Flash.videoPlayer = 'http://media.blizzard.com/global-video-player/themes/d3/video-player.swf';
+Flash.videoBase = 'http://media.blizzard.com/d3/media/videos';
+Flash.ratingImage = 'http://media.blizzard.com/global-video-player/ratings/d3/en-us.jpg';
+Flash.expressInstall = 'http://media.blizzard.com/global-video-player/expressInstall.swf';
+//]]>
+</script>
+<meta property="fb:app_id" content="155068716934" />
+<meta property="og:site_name" content="Diablo III" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://us.battle.net/d3/en/item/gem/" />
+<meta property="og:image" content="http://media.blizzard.com/d3/icons/items/large/unique_gem_001_x1_demonhunter_male.png" />
+<meta property="og:image" content="http://media.blizzard.com/battle.net/logos/og-d3.png" />
+<meta property="og:image" content="http://media.blizzard.com/battle.net/logos/og-blizzard.png" />
+<meta property="og:title" content="Gems" />
+<meta property="og:description" content="Gems soak in ambient magic during the time they spend buried in the deep earth of Sanctuary; they provide bonuses to essential attributes and also convey special characteristics, among them great fortune and swifter learning." />
+<link rel="canonical" href="http://us.battle.net/d3/en/item/gem/" />
+</head>
+<body class="en-us db-browse item-browse" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<script>
+//<![CDATA[
+var dataLayer = [{
+"authenticated": "0" }];
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!="dataLayer"?"&amp;l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);})
+(window,document,"script","dataLayer","GTM-M39SFZ");
+//]]>
+</script>
+<div id="nav-client-header" class="nav-client compact">
+<div id="nav-client-bar">
+<div class="grid-container nav-header-content">
+<ul class="nav-list nav-left" id="nav-client-main-menu">
+<li>
+<a id="nav-client-home" class="nav-item nav-home" href="http://us.battle.net/" data-analytics="global-nav" data-analytics-placement="Nav - Battle.net Icon"></a>
+</li>
+<li>
+<div class="dropdown games">
+<a class="dropdown-toggle nav-link needsclick active" data-toggle="dropdown">
+Games
+<b class="caret"></b>
+</a>
+<div class="dropdown-menu">
+<ul class="nav-product-card-container games-menu" role="menu">
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/wow/" data-analytics="global-nav" data-analytics-placement="Nav - Games - World of Warcraft"><i class="nav-icon-wow"></i>World of Warcraft®</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/d3/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Diablo III"><i class="nav-icon-d3"></i>Diablo® III</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/sc2/" data-analytics="global-nav" data-analytics-placement="Nav - Games - StarCraft II"><i class="nav-icon-sc2"></i>StarCraft® II</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/hearthstone/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Hearthstone"><i class="nav-icon-hearthstone"></i>Hearthstone®</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/heroes/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Heroes of the Storm"><i class="nav-icon-heroes"></i>Heroes of the Storm™</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/overwatch/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Overwatch"><i class="nav-icon-overwatch"></i>Overwatch™</a>
+</li>
+</ul>
+<div class="dropdown-well dropdown-section download-btn">
+<a class="nav-item nav-a nav-item-box" href="http://us.battle.net/games/classic" data-analytics="global-nav" data-analytics-placement="Nav - Games - Classic Games"><i class="nav-icon-24-blue nav-icon-mouse"></i>Classic Games</a>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a id="nav-client-shop" class="nav-item nav-link needsclick" href="https://us.battle.net/shop/" data-analytics="global-nav" data-analytics-placement="Nav - Shop">Shop</a>
+</li>
+</ul>
+<ul class="nav-list nav-right" id="nav-client-account-menu">
+<li>
+<div id="username">
+<div class="dropdown pull-right">
+<a class="nav-link username username--loggedout needsclick dropdown-toggle" data-toggle="dropdown" rel="navbar">
+Your account
+<b class="caret"></b>
+</a>
+<div class="dropdown-menu">
+<div class="arrow top"></div>
+<div class="user-profile">
+<div class="dropdown-section">
+<div class="nav-box">
+<a class="nav-item nav-btn nav-btn-block nav-login-btn" href="?login" data-analytics="global-nav" data-analytics-placement="Nav - Account - Log In">Log In</a>
+</div>
+</div>
+<div class="dropdown-section">
+<ul class="nav-list">
+<li>
+<a class="nav-item nav-a nav-item-box" href="http://us.battle.net/account/management/" data-analytics="global-nav" data-analytics-placement="Nav - Account - Settings"><i class="nav-icon-24-blue nav-icon-character-cog"></i>Account Settings</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a id="nav-client-support-link" class="nav-item nav-link needsclick" href="http://us.battle.net/support/" data-analytics="global-nav" data-analytics-placement="Nav - Support"> Support </a>
+</li>
+<li>
+<div class="nav-notification-icon">
+<a class="dropdown-toggle needsclick nav-item" rel="navbar">
+<i class="needsclick nav-icon-bell"></i>
+</a>
+<div class="nav-notification-dropdown dropdown-menu">
+<div class="arrow top"></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="nav-notification-responsive-container">
+<div class="nav-notification-dropdown dropdown-menu">
+<div class="arrow top"></div>
+</div>
+</div>
+</div>
+<div class="bg-wrapper">
+<div class="wrapper">
+<div class="head">
+<h1 class="logo">
+<a href="/d3/en/">Diablo® III</a>
+</h1>
+<a href="javascript:;" class="skull-eyes" id="skull-eyes"></a>
+<div class="try-free">
+<span class="try-free-label">New to Diablo III?</span>
+<a class="button-game" href="https://us.battle.net/account/activation/landing.html?product=D3&amp;d3Gateway" data-analytics="d3-starter-edition" data-analytics-placement="Masthead">
+<span class="button-game-bg-left"></span>
+<span class="button-game-bg-mid">
+<span>Try Free Now</span>
+</span>
+<span class="button-game-bg-right"></span>
+</a>
+</div>
+<div class="search-bar">
+<form action="/d3/en/search" method="get" autocomplete="off">
+<div>
+<input type="search" class="search-field input" name="q" id="search-field" maxlength="200" tabindex="40" alt="Search Diablo III..." value="Search Diablo III..." />
+<input type="submit" class="search-button" value="" tabindex="41" />
+</div>
+</form>
+</div>
+<ul class="menu" id="menu">
+<li class="menu-home" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/">
+<span itemprop="name">Home</span>
+</a>
+</li>
+<li class="menu-game" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/game/" class="menu-active">
+<span itemprop="name">Game Guide</span>
+</a>
+</li>
+<li class="menu-rankings" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/rankings/">
+<span itemprop="name">Rankings</span>
+</a>
+</li>
+<li class="menu-media" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/media/">
+<span itemprop="name">Media</span>
+</a>
+</li>
+<li class="menu-forums" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="https://us.battle.net/forums/en/d3/">
+<span itemprop="name">Forums</span>
+</a>
+</li>
+<li class="menu-purchase" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/purchase">
+<span itemprop="name">Buy Now</span>
+</a>
+</li>
+</ul>
+<div class="character-card card-login ajax-update">
+<a href="?login" class="click-area login" onclick="return Login.open('https://us.battle.net/login/login.frag');">
+<span class="inner"> <strong>Log in now</strong> to enhance and personalize your experience!
+</span>
+<span class="avatar-frame">
+<span class="no-avatar"></span>
+<span class="border"></span>
+</span>
+</a>
+</div>
+</div>
+<div class="body" itemscope="itemscope" itemtype="http://schema.org/WebPageElement">
+<div class="body-top">
+<div class="body-bot">
+	<div class="browse-wrapper">
+		<div class="browse-left">
+	<div class="db-navigation">
+
+
+
+	<h2 class="subheader-2" >			<a href="/d3/en/item/">
+				Items
+				<span class="icon-frame icon-frame-text">
+					<span class="icon-16 icon-16-rarrow"></span>
+				</span>
+			</a>
+</h2>
+
+	
+
+	<h3 class="header-3" >Other</h3>
+
+
+	<ul>
+	<li>
+		<a href="/d3/en/item/potion/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Consumables
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/crafting-material/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Crafting
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/dye/">
+			Dyes
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/gem/" class="selected">
+			Gems
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/misc/">
+			Miscellaneous
+		</a>
+	</li>
+	</ul>
+
+	
+
+	<h3 class="header-3" >Weapons</h3>
+
+
+	<ul>
+	<li>
+		<a href="/d3/en/item/axe-1h/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			One-Handed
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/axe-2h/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Two-Handed
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/bow/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Ranged
+		</a>
+	</li>
+	</ul>
+	
+
+	<h3 class="header-3" >Armor</h3>
+
+
+	<ul>
+	<li>
+		<a href="/d3/en/item/helm/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Head
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/pauldrons/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Shoulders
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/chest-armor/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Torso
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/bracers/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Wrists
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/gloves/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Hands
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/belt/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Waist
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/pants/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Legs
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/boots/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Feet
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/amulet/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Jewelry
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/shield/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Off-Hand
+		</a>
+	</li>
+	<li>
+		<a href="/d3/en/item/enchantress-focus/">
+				<span class="nav-rarrow">
+					<span class="icon-16 icon-16-rarrow-small"></span>
+				</span>
+			Follower Special
+		</a>
+	</li>
+	</ul>
+	</div>
+		</div>
+
+		<div class="browse-right">
+
+			<div class="page-header">
+
+
+
+
+
+	<h2 class="header-2" >			Gems
+
+</h2>
+
+					<div class="desc">
+						Gems soak in ambient magic during the time they spend buried in the deep earth of Sanctuary; they provide bonuses to essential attributes and also convey special characteristics, among them great fortune and swifter learning.
+					</div>
+			</div>
+
+			<div class="page-body">
+
+
+
+
+
+
+	<div class="db-filters" id="filters">
+
+	<div class="ui-filter">
+		<input type="text" name="filter" id="filter-filter" class="input "
+			value="Filter…" alt="Filter…" maxlength="25"
+			data-filter="row"  />
+
+		<span class="view"></span>
+		<span class="reset" style="display: none"></span>
+	</div>
+
+
+	<span class="clear"><!-- --></span>
+	</div>
+
+	<div id="tip-common-items" style="display: none">
+		<div class="tooltip">
+				
+
+
+	<h3 class="subheader-3" >Normal Items</h3>
+
+		<div class="colors-subtle">
+			You may find <span class="d3-color-gray">Inferior</span>, <span class="d3-color-white">Superior</span>, <span class="d3-color-blue">Magic</span>, or <span class="d3-color-yellow">Rare</span> versions of these items, with random properties that aren’t listed on this page.
+		</div>
+		</div>
+	</div>
+
+	<div id="tip-always-magic" style="display: none">
+		<div class="tooltip">
+				
+
+
+	<h3 class="subheader-3" >Always Magic</h3>
+
+		Items of this type always possess random properties.
+		</div>
+	</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	<div id="grid-items" class="grid-items category-gem">
+
+
+
+
+
+	<div class="data-options top">
+
+
+			Showing <strong class="results-start">1</strong>–<strong class="results-end">72</strong> of <strong class="results-total">72</strong> results
+
+	<span class="clear"><!-- --></span>
+	</div>
+
+		<div class="data-container type-grid grid-7">
+
+
+
+				<div class="data-row row1">
+						
+
+	<h3 class="header-3" >Legendary Gems</h3>
+
+
+
+
+						<div class="data-cell" data-raw="bane of the powerful bane of the powerful">
+							<a href="/d3/en/item/bane-of-the-powerful">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_001_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="bane of the stricken bane of the stricken">
+							<a href="/d3/en/item/bane-of-the-stricken">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_018_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="bane of the trapped bane of the trapped">
+							<a href="/d3/en/item/bane-of-the-trapped">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_002_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="boon of the hoarder boon of the hoarder">
+							<a href="/d3/en/item/boon-of-the-hoarder">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_014_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="boyarsky&#39;s chip boyarsky's chip">
+							<a href="/d3/en/item/boyarskys-chip">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_020_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="enforcer enforcer">
+							<a href="/d3/en/item/enforcer">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_010_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="esoteric alteration esoteric alteration">
+							<a href="/d3/en/item/esoteric-alteration">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_016_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="gem of ease gem of ease">
+							<a href="/d3/en/item/gem-of-ease">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_003_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="gem of efficacious toxin gem of efficacious toxin">
+							<a href="/d3/en/item/gem-of-efficacious-toxin">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_005_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="gogok of swiftness gogok of swiftness">
+							<a href="/d3/en/item/gogok-of-swiftness">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_008_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="iceblink iceblink">
+							<a href="/d3/en/item/iceblink">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_021_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="invigorating gemstone invigorating gemstone">
+							<a href="/d3/en/item/invigorating-gemstone">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_009_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="mirinae, teardrop of the starweaver mirinae, teardrop of the starweaver">
+							<a href="/d3/en/item/mirinae-teardrop-of-the-starweaver">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_007_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="molten wildebeest&#39;s gizzard molten wildebeest's gizzard">
+							<a href="/d3/en/item/molten-wildebeests-gizzard">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_017_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="moratorium moratorium">
+							<a href="/d3/en/item/moratorium">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_011_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="mutilation guard mutilation guard">
+							<a href="/d3/en/item/mutilation-guard">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_019_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="pain enhancer pain enhancer">
+							<a href="/d3/en/item/pain-enhancer">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_006_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="red soul shard red soul shard">
+							<a href="/d3/en/item/red-soul-shard">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_022_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="simplicity&#39;s strength simplicity's strength">
+							<a href="/d3/en/item/simplicitys-strength">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_013_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="taeguk taeguk">
+							<a href="/d3/en/item/taeguk">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_015_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="wreath of lightning wreath of lightning">
+							<a href="/d3/en/item/wreath-of-lightning">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_004_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="zei&#39;s stone of vengeance zei's stone of vengeance">
+							<a href="/d3/en/item/zeis-stone-of-vengeance">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-orange">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/unique_gem_012_x1_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+	<span class="clear"><!-- --></span>
+				</div>
+
+
+
+				<div class="data-row row2">
+						
+
+	<h3 class="header-3" >Amethyst</h3>
+
+
+
+
+						<div class="data-cell" data-raw="amethyst amethyst">
+							<a href="/d3/en/item/amethyst">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_amethyst_01_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless amethyst flawless amethyst">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-amethyst">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_amethyst_02_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="square amethyst square amethyst">
+							<a href="/d3/en/artisan/jeweler/recipe/square-amethyst">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_amethyst_03_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless square amethyst flawless square amethyst">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-square-amethyst">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_amethyst_04_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="star amethyst star amethyst">
+							<a href="/d3/en/artisan/jeweler/recipe/star-amethyst">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_amethyst_05_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="marquise amethyst marquise amethyst">
+							<a href="/d3/en/artisan/jeweler/recipe/marquise-amethyst">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_amethyst_06_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="imperial amethyst imperial amethyst">
+							<a href="/d3/en/artisan/jeweler/recipe/imperial-amethyst">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_amethyst_07_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless imperial amethyst flawless imperial amethyst">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-imperial-amethyst">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_amethyst_08_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="royal amethyst royal amethyst">
+							<a href="/d3/en/artisan/jeweler/recipe/royal-amethyst">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_amethyst_09_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless royal amethyst flawless royal amethyst">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-royal-amethyst">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_amethyst_10_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+	<span class="clear"><!-- --></span>
+				</div>
+
+
+
+				<div class="data-row row1">
+						
+
+	<h3 class="header-3" >Diamond</h3>
+
+
+
+
+						<div class="data-cell" data-raw="diamond diamond">
+							<a href="/d3/en/item/diamond">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_diamond_01_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless diamond flawless diamond">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-diamond">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_diamond_02_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="square diamond square diamond">
+							<a href="/d3/en/artisan/jeweler/recipe/square-diamond">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_diamond_03_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless square diamond flawless square diamond">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-square-diamond">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_diamond_04_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="star diamond star diamond">
+							<a href="/d3/en/artisan/jeweler/recipe/star-diamond">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_diamond_05_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="marquise diamond marquise diamond">
+							<a href="/d3/en/artisan/jeweler/recipe/marquise-diamond">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_diamond_06_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="imperial diamond imperial diamond">
+							<a href="/d3/en/artisan/jeweler/recipe/imperial-diamond">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_diamond_07_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless imperial diamond flawless imperial diamond">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-imperial-diamond">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_diamond_08_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="royal diamond royal diamond">
+							<a href="/d3/en/artisan/jeweler/recipe/royal-diamond">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_diamond_09_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless royal diamond flawless royal diamond">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-royal-diamond">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_diamond_10_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+	<span class="clear"><!-- --></span>
+				</div>
+
+
+
+				<div class="data-row row2">
+						
+
+	<h3 class="header-3" >Emerald</h3>
+
+
+
+
+						<div class="data-cell" data-raw="emerald emerald">
+							<a href="/d3/en/item/emerald">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_emerald_01_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless emerald flawless emerald">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-emerald">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_emerald_02_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="square emerald square emerald">
+							<a href="/d3/en/artisan/jeweler/recipe/square-emerald">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_emerald_03_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless square emerald flawless square emerald">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-square-emerald">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_emerald_04_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="star emerald star emerald">
+							<a href="/d3/en/artisan/jeweler/recipe/star-emerald">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_emerald_05_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="marquise emerald marquise emerald">
+							<a href="/d3/en/artisan/jeweler/recipe/marquise-emerald">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_emerald_06_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="imperial emerald imperial emerald">
+							<a href="/d3/en/artisan/jeweler/recipe/imperial-emerald">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_emerald_07_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless imperial emerald flawless imperial emerald">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-imperial-emerald">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_emerald_08_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="royal emerald royal emerald">
+							<a href="/d3/en/artisan/jeweler/recipe/royal-emerald">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_emerald_09_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless royal emerald flawless royal emerald">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-royal-emerald">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_emerald_10_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+	<span class="clear"><!-- --></span>
+				</div>
+
+
+
+				<div class="data-row row1">
+						
+
+	<h3 class="header-3" >Ruby</h3>
+
+
+
+
+						<div class="data-cell" data-raw="ruby ruby">
+							<a href="/d3/en/item/ruby">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_ruby_01_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless ruby flawless ruby">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-ruby">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_ruby_02_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="square ruby square ruby">
+							<a href="/d3/en/artisan/jeweler/recipe/square-ruby">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_ruby_03_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless square ruby flawless square ruby">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-square-ruby">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_ruby_04_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="star ruby star ruby">
+							<a href="/d3/en/artisan/jeweler/recipe/star-ruby">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_ruby_05_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="marquise ruby marquise ruby">
+							<a href="/d3/en/artisan/jeweler/recipe/marquise-ruby">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_ruby_06_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="imperial ruby imperial ruby">
+							<a href="/d3/en/artisan/jeweler/recipe/imperial-ruby">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_ruby_07_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless imperial ruby flawless imperial ruby">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-imperial-ruby">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_ruby_08_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="royal ruby royal ruby">
+							<a href="/d3/en/artisan/jeweler/recipe/royal-ruby">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_ruby_09_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless royal ruby flawless royal ruby">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-royal-ruby">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_ruby_10_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+	<span class="clear"><!-- --></span>
+				</div>
+
+
+
+				<div class="data-row row2">
+						
+
+	<h3 class="header-3" >Topaz</h3>
+
+
+
+
+						<div class="data-cell" data-raw="topaz topaz">
+							<a href="/d3/en/item/topaz">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_topaz_01_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless topaz flawless topaz">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-topaz">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_topaz_02_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="square topaz square topaz">
+							<a href="/d3/en/artisan/jeweler/recipe/square-topaz">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_topaz_03_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless square topaz flawless square topaz">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-square-topaz">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_topaz_04_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="star topaz star topaz">
+							<a href="/d3/en/artisan/jeweler/recipe/star-topaz">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_topaz_05_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="marquise topaz marquise topaz">
+							<a href="/d3/en/artisan/jeweler/recipe/marquise-topaz">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_topaz_06_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="imperial topaz imperial topaz">
+							<a href="/d3/en/artisan/jeweler/recipe/imperial-topaz">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_topaz_07_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless imperial topaz flawless imperial topaz">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-imperial-topaz">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_topaz_08_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="royal topaz royal topaz">
+							<a href="/d3/en/artisan/jeweler/recipe/royal-topaz">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_topaz_09_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+						<div class="data-cell" data-raw="flawless royal topaz flawless royal topaz">
+							<a href="/d3/en/artisan/jeweler/recipe/flawless-royal-topaz">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/x1_topaz_10_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+							</a>
+						</div>
+
+
+
+	<span class="clear"><!-- --></span>
+				</div>
+
+
+		</div>
+
+
+
+
+
+
+	<div class="data-options bottom">
+
+
+			Showing <strong class="results-start">1</strong>–<strong class="results-end">72</strong> of <strong class="results-total">72</strong> results
+
+	<span class="clear"><!-- --></span>
+	</div>
+	</div>
+
+		<script type="text/javascript">
+		//<![CDATA[
+		$(document).ready(function() {
+			DB.Grid.factory('#grid-items');
+		});
+		//]]>
+		</script>
+
+
+	<span class="clear"><!-- --></span>
+			</div>
+
+		</div>
+
+	<span class="clear"><!-- --></span>
+	</div>
+
+
+
+
+
+	<div id="comments" class="bnet-comments ">
+		
+
+
+	<h2 class="subheader-2" >Loading Comments…</h2>
+
+		
+
+
+	<h2 class="hide" >An error has occurred loading comments.</h2>
+
+
+		<div class="comments-loading"></div>
+
+		<script type="text/javascript">
+		//<![CDATA[
+			$(function() {
+				Comments.initialize('us.en_us.d3.item_category_gem', 'a24986fd592c4a7a90cd6ce7d7650ae1', '0');
+			});
+		//]]>
+		</script>
+	</div>
+
+
+
+
+<span class="clear"><!-- --></span>
+<div class="social-media-container no-font-boost">
+<h2 class="social-media-title">Stay Connected</h2>
+<ul class="social-media">
+<li class="atom-feed">
+<a href="/d3/en/feed/news" target="_blank"></a>
+</li>
+<li class="facebook">
+<a href="https://www.facebook.com/Diablo" title=""></a>
+</li>
+<li class="twitter">
+<a href="https://twitter.com/Diablo" title=""></a>
+</li>
+<li class="youtube">
+<a href="https://www.youtube.com/Diablo" title=""></a>
+</li>
+<li class="reddit">
+<a href="http://www.reddit.com/r/diablo" title="Diablo on reddit"></a>
+</li>
+<span class="clear"><!-- --></span>
+</ul>
+</div>
+<a href="javascript:;" class="chat-gem" id="chat-gem"></a>
+</div>
+</div>
+<div class="body-trail">
+<ol class="ui-breadcrumb">
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Diablo III</span>
+</a>
+</li>
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/game/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Game Guide</span>
+</a>
+</li>
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/item/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Items</span>
+</a>
+</li>
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/item/other/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Other</span>
+</a>
+</li>
+<li class="last" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/item/gem/" rel="np" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Gems</span>
+</a>
+</li>
+</ol>
+<span class="clear"><!-- --></span>
+</div>
+</div>
+<div class="nav-footer-wrapper">
+<div id="nav-client-footer" class="nav-client">
+<div class="footer-content footer-desktop grid-container"> <div class="nav-section support-feedback">
+<div class="nav-left">
+<div id="nav-feedback">
+<a id="nav-client-news" class="nav-item nav-a nav-item-btn" href="http://us.battle.net/support/" data-analytics="global-nav" data-analytics-placement="Footer - Support"><i class="nav-icon-24-blue nav-icon-question-circle"></i>Support</a>
+<a class="nav-item nav-a nav-item-btn" href="https://us.battle.net/feedback" data-analytics="global-nav" data-analytics-placement="Footer - Feedback"><i class="nav-icon-24-blue nav-icon-edit"></i>Feedback</a>
+</div>
+</div>
+<div class="nav-right">
+<div id="nav-client-region-select">
+<div class="dropdown dropup pull-right">
+<a class="dropdown-toggle nav-item" data-toggle="dropdown">
+<i class="nav-icon-24-blue nav-icon-globe"></i>Americas - English (US)<b class="caret"></b>
+</a>
+<div class="dropdown-menu" data-placement="top">
+<div class="arrow bottom"></div>
+<div id="nav-client-international-desktop">
+<div class="nav-international-container">
+<div class="dropdown-section nav-column-container">
+<div class="nav-column-50">
+<div id="select-regions" class="nav-box regions">
+<h3>Region</h3>
+<ul class="region-ul">
+<li class="region active current"><a class="nav-item select-region" href="javascript:;" data-target="us">Americas</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="eu">Europe</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="kr">Korea</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="tw">Taiwan</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="cn">China</a></li>
+</ul>
+</div>
+</div>
+<div class="nav-column-50">
+<div id="select-language" class="nav-box languages">
+<h3>Language</h3>
+<div class="region region-languages active current" data-region="us">
+<ul class="region-ul">
+<li class="active current">
+<a class="nav-item select-language" href="http://us.battle.net/d3/en-us/item/gem/" data-target="us" data-language="en-us">English (US)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://us.battle.net/d3/es-mx/item/gem/" data-target="us" data-language="es-mx">Español (AL)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://us.battle.net/d3/pt-br/item/gem/" data-target="us" data-language="pt-br">Português (AL)</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="eu">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/de-de/item/gem/" data-target="eu" data-language="de-de">Deutsch</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/en-gb/item/gem/" data-target="eu" data-language="en-gb">English (EU)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/es-es/item/gem/" data-target="eu" data-language="es-es">Español (EU)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/fr-fr/item/gem/" data-target="eu" data-language="fr-fr">Français</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/it-it/item/gem/" data-target="eu" data-language="it-it">Italiano</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/pl-pl/item/gem/" data-target="eu" data-language="pl-pl">Polski</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/ru-ru/item/gem/" data-target="eu" data-language="ru-ru">Русский</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="kr">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://kr.battle.net/d3/ko-kr/item/gem/" data-target="kr" data-language="ko-kr">한국어</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="tw">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://tw.battle.net/d3/zh-tw/item/gem/" data-target="tw" data-language="zh-tw">繁體中文</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="cn">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://www.diablo3.com.cn" data-target="cn" data-language="zh-cn">简体中文</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="dropdown-section dropdown-well nav-box localeChange">
+<a id="nav-client-change-language-desktop" href="javascript:;" class="nav-lang-change nav-btn">Change</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav-section">
+<div class="nav-left nav-logo-group">
+<div class="footer-logo nav-left">
+<a class="nav-item logo-link" href="http://us.blizzard.com/" data-analytics="global-nav" data-analytics-placement="Footer - Blizzard Logo"><img class="blizzard-logo" src="/d3/static/images/nav-client/blizzard.png?v=58-96" alt="" /></a>
+</div>
+<div class="footer-links nav-left">
+<a class="nav-item nav-a" href="http://jobs.blizzard.com/" data-analytics="global-nav" data-analytics-placement="Footer - Careers">Careers</a>
+<span>|</span>
+<a class="nav-item nav-a" href="http://us.blizzard.com/company/about/" data-analytics="global-nav" data-analytics-placement="Footer - About">About</a>
+<span>|</span>
+<a class="nav-item nav-a" href="http://us.blizzard.com/company/about/privacy.html" data-analytics="global-nav" data-analytics-placement="Footer - Privacy">Privacy</a>
+<span>|</span>
+<a class="nav-item nav-a" href="http://us.blizzard.com/company/legal/" data-analytics="global-nav" data-analytics-placement="Footer - Terms">Terms</a>
+<span>|</span>
+<a class="nav-item nav-a" href="//dev.battle.net" data-analytics="global-nav" data-analytics-placement="Footer - API">API</a>
+<div class="copyright">©2017 Blizzard Entertainment, Inc.</div>
+<div class="nav-footer-icon-container">
+<ul class="nav-footer-icon-list">
+</ul>
+</div>
+</div>
+</div>
+<div class="nav-ratings">
+<div class="legal-rating">
+<div class="product-rating esrb-rating clearfix">
+<a href="http://www.esrb.org/ratings/ratings_guide.jsp" tabindex="1" rel="external" target="_blank">
+<img class="esrb-logo" src="/d3/static/images/legal/ratings/esrb/en/m.png?v=58-96"
+alt="ESRB Content Rating: M (Mature)" title=""
+width="65" height="97" />
+</a>
+<span class="esrb-descriptor"><span class="esrb-descriptor-label" title="Depictions of blood or the mutilation of body parts.">Blood and Gore</span></span>
+<span class="esrb-descriptor"><span class="esrb-descriptor-label" title="Scenes involving aggressive conflict. May contain bloodless dismemberment.">Violence</span></span>
+<span class="esrb-descriptor"><span class="esrb-descriptor-label" title="Brief and/or mild depictions of nudity.">Partial Nudity</span></span>
+<span class="esrb-disclaimer">Online Interactions Not Rated by the ESRB</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+//<![CDATA[
+var xsToken = '';
+var supportToken = '';
+var jsonSearchHandlerUrl = '\//us.battle.net';
+var Msg = Msg || {};
+Msg.support = {
+ticketNew: 'Ticket {0} was created.',
+ticketStatus: 'Ticket {0}’s status changed to {1}.',
+ticketOpen: 'Open',
+ticketAnswered: 'Answered',
+ticketResolved: 'Resolved',
+ticketCanceled: 'Canceled',
+ticketArchived: 'Archived',
+ticketInfo: 'Need Info',
+ticketAll: 'View All Tickets'
+};
+Msg.cms = {
+requestError: 'Your request cannot be completed.',
+ignoreNot: 'Not ignoring this user',
+ignoreAlready: 'Already ignoring this user',
+stickyRequested: 'Sticky requested',
+stickyHasBeenRequested: 'You have already sent a sticky request for this topic.',
+postAdded: 'Post added to tracker',
+postRemoved: 'Post removed from tracker',
+userAdded: 'User added to tracker',
+userRemoved: 'User removed from tracker',
+validationError: 'A required field is incomplete',
+characterExceed: 'The post body exceeds XXXXXX characters.',
+searchFor: "Search for",
+searchTags: "Articles tagged:",
+characterAjaxError: "You may have become logged out. Please refresh the page and try again.",
+ilvl: "Level {0}",
+shortQuery: "Search requests must be at least three characters long.",
+editSuccess: "Success. Reload?",
+postDelete: "Are you sure you want to delete this post?",
+throttleError: "You must wait before you can post again."
+};
+Msg.bml= {
+bold: 'Bold',
+italics: 'Italics',
+underline: 'Underline',
+list: 'Unordered List',
+listItem: 'List Item',
+quote: 'Quote',
+quoteBy: 'Posted by {0}',
+unformat: 'Remove Formating',
+cleanup: 'Fix Linebreaks',
+code: 'Code Blocks',
+item: 'WoW Item',
+itemPrompt: 'Item ID:',
+url: 'URL',
+urlPrompt: 'URL Address:'
+};
+Msg.ui= {
+submit: 'Submit',
+cancel: 'Cancel',
+reset: 'Reset',
+viewInGallery: 'View in gallery',
+loading: 'Loading…',
+unexpectedError: 'An error has occurred',
+fansiteFind: 'Find this on…',
+fansiteFindType: 'Find {0} on…',
+fansiteNone: 'No fansites available.',
+flashErrorHeader: 'Adobe Flash Player must be installed to see this content.',
+flashErrorText: 'Download Adobe Flash Player',
+flashErrorUrl: 'http://get.adobe.com/flashplayer/',
+save: 'Save'
+};
+Msg.grammar= {
+colon: '{0}:',
+first: 'First',
+last: 'Last',
+ellipsis: '…'
+};
+Msg.fansite= {
+achievement: 'achievement',
+character: 'character',
+faction: 'faction',
+'class': 'class',
+object: 'object',
+talentcalc: 'talents',
+skill: 'profession',
+quest: 'quest',
+spell: 'spell',
+event: 'event',
+title: 'title',
+arena: 'arena team',
+guild: 'guild',
+zone: 'zone',
+item: 'item',
+race: 'race',
+npc: 'NPC',
+pet: 'pet'
+};
+Msg.search= {
+noResults: 'There are no results to display.',
+kb: 'Support',
+post: 'Forums',
+article: 'Blog Articles',
+static: 'General Content',
+wowcharacter: 'Characters',
+wowitem: 'Items',
+wowguild: 'Guilds',
+wowarenateam: 'Arena Teams',
+url: 'Suggested Links',
+friend: 'Friends',
+product: 'Marketplace Products',
+other: 'Other'
+};
+//]]>
+</script>
+<script type="text/javascript" src="/d3/static/js/libs/toolkit-modal.js?v=96"></script>
+<script type="text/javascript" src="/d3/static/js/d3.js?v=96"></script>
+<script type="text/javascript" src="/d3/static/js/nav-client/navbar-tk.min.js?v=96"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.nav.notifications.endpoint = "";
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+$(function(){
+Menu.initialize('/data/menu.json');
+Search.initialize('/d3/en/search/ta');
+Tooltip.maxWidth = 350;
+});
+//]]>
+</script>
+<script type="text/javascript" src="/d3/static/js/blog/responsive-blog-design.min.js?v=96"></script>
+<script type="text/javascript" src="/d3/static/local-common/js/utility/dataset.js?v=58-96"></script>
+<script type="text/javascript" src="/d3/static/js/db.js?v=58-96"></script>
+<script type="text/javascript" src="/d3/static/js/item/browse.js?v=58-96"></script>
+<div id="modal" class="modal hide">
+<div class="modal-content">
+<div class="modal__media"></div>
+<div class="modal-corner modal-corner-top-left"></div>
+<div class="modal-corner modal-corner-top-right"></div>
+<div class="modal-corner modal-corner-bottom-left"></div>
+<div class="modal-corner modal-corner-bottom-right"></div>
+<div class="modal-border modal-border-top"></div>
+<div class="modal-border modal-border-right"></div>
+<div class="modal-border modal-border-bottom"></div>
+<div class="modal-border modal-border-left"></div>
+<div class="modal-controls">
+<div class="prev arrow-tab modal-navigation"><div class="heroes-arrow"></div></div>
+<div class="next arrow-tab modal-navigation"><div class="heroes-arrow"></div></div>
+</div>
+<span class="media-btn close">×</span>
+</div>
+</div>
+</body>
+</html>
