@@ -57,7 +57,7 @@ describe('d3_client_en', function() {
             '2400% weapon damage to all enemies caught in its path.',
             'Cooldown is reduced by 1 second for every 25 Fury you spend.',
           ],
-          desc2:    '',
+          legend:   '',
           active:   true,
           owner:    'barbarian',
           cooldown: '30 seconds',
@@ -120,9 +120,10 @@ describe('d3_client_en', function() {
             'Increase Strength by 1% for 8 seconds after killing or assisting in killing an enemy. ' +
             'This effect stacks up to 25 times.',
           ],
-          desc2: '"The battle was never ending, sapping our minds and bodies to the point of exhaustion. ' +
-                 'But they thrived amidst the carnage, every killing blow renewing their bloodlust. They ' +
-                 'couldn\'t be stopped." —Sergeant Peshkov on the Siege of the Barbarians, 1123 Anno Kehjistani',
+          legend: '"The battle was never ending, sapping our minds and bodies to the point of exhaustion. ' +
+                  'But they thrived amidst the carnage, every killing blow renewing their bloodlust. They ' +
+                  'couldn\'t be stopped." —Sergeant Peshkov on the Siege of the Barbarians, 1123 Anno Kehjistani',
+
           active:   false,
           owner:    'barbarian',
           category: '',

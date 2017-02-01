@@ -9,30 +9,32 @@ describe('d3_client_en', function() {
     this.timeout(5000);
 
     var EMPTY_ITEM = {
-      id:    '',
-      link:  '',
-      icon:  '',
-      name:  '',
-      slot:  '',
-      type:  '',
-      level: 1,
-      owner: '',
-      desc2: '',
+      id:      '',
+      link:    '',
+      icon:    '',
+      name:    '',
+      slot:    '',
+      type:    '',
+      quality: '',
+      level:   1,
+      owner:   '',
+      legend:  '',
+
       attrs: {
         aws:     [],
         effects: [],
         choices: [],
       },
       set: {
-        name:   '',
-        pieces: [],
-        bonus:  [],
+        name:  '',
+        parts: [],
+        bonus: [],
       },
       source: {
-        cost:      '',
-        icon:      '',
-        rank:      '',
-        materials: [],
+        cost:  '',
+        icon:  '',
+        rank:  '',
+        parts: [],
       },
     };
 
@@ -85,14 +87,16 @@ describe('d3_client_en', function() {
       client.getItem(url, function(e, item) {
         assert.equal(e, null);
         assert.deepEqual(item, h.extendObj(EMPTY_ITEM, {
-          id:    'helm-of-the-cranial-crustacean',
-          link:  'http://us.battle.net/d3/en/item/helm-of-the-cranial-crustacean',
-          icon:  'http://media.blizzard.com/d3/icons/items/large/transmoghelm_002_demonhunter_male.png',
-          name:  'Helm of the Cranial Crustacean',
-          slot:  'Head',
-          type:  'Helm',
-          level: 1,
-          desc2: 'Wear this and you will be mistaken for a mindless zombie — amuse your friends, fool your enemies!',
+          id:      'helm-of-the-cranial-crustacean',
+          link:    'http://us.battle.net/d3/en/item/helm-of-the-cranial-crustacean',
+          icon:    'http://media.blizzard.com/d3/icons/items/large/transmoghelm_002_demonhunter_male.png',
+          name:    'Helm of the Cranial Crustacean',
+          slot:    'Head',
+          type:    'Helm',
+          quality: 'Normal',
+          level:   1,
+          legend:  'Wear this and you will be mistaken for a mindless zombie — amuse your friends, fool your enemies!',
+
           attrs: {
             aws: ['21–24', 'Armor'],
           },
@@ -111,32 +115,34 @@ describe('d3_client_en', function() {
       client.getItem(url, function(e, item) {
         assert.equal(e, null);
         assert.deepEqual(item, h.extendObj(EMPTY_ITEM, {
-          id:    'apprentice-coif',
-          link:  'http://us.battle.net/d3/en/artisan/blacksmith/recipe/apprentice-coif',
-          icon:  'http://media.blizzard.com/d3/icons/items/large/helm_003_demonhunter_male.png',
-          name:  'Apprentice Coif',
-          slot:  'Head',
-          type:  'Magic Helm',
-          level: 9,
+          id:      'apprentice-coif',
+          link:    'http://us.battle.net/d3/en/artisan/blacksmith/recipe/apprentice-coif',
+          icon:    'http://media.blizzard.com/d3/icons/items/large/helm_003_demonhunter_male.png',
+          name:    'Apprentice Coif',
+          slot:    'Head',
+          type:    'Helm',
+          quality: 'Magic',
+          level:   9,
+
           attrs: {
             aws:     ['36–41', 'Armor'],
             effects: ['+2 Random Magic Properties'],
           },
           source: {
-            cost:      '1,000',
-            rank:      'Level 1 (Apprentice)',
-            materials: [
+            cost:  '1,000',
+            rank:  'Level 1 (Apprentice)',
+            parts: [
               {
-                count: 4,
-                id:    'reusable-parts',
-                link:  'http://us.battle.net/d3/en/item/reusable-parts',
-                icon:  'http://media.blizzard.com/d3/icons/items/small/crafting_assortedparts_01_demonhunter_male.png',
+                num:  4,
+                id:   'reusable-parts',
+                link: 'http://us.battle.net/d3/en/item/reusable-parts',
+                icon: 'http://media.blizzard.com/d3/icons/items/small/crafting_assortedparts_01_demonhunter_male.png',
               },
               {
-                count: 4,
-                id:    'arcane-dust',
-                link:  'http://us.battle.net/d3/en/item/arcane-dust',
-                icon:  'http://media.blizzard.com/d3/icons/items/small/crafting_magic_01_demonhunter_male.png',
+                num:  4,
+                id:   'arcane-dust',
+                link: 'http://us.battle.net/d3/en/item/arcane-dust',
+                icon: 'http://media.blizzard.com/d3/icons/items/small/crafting_magic_01_demonhunter_male.png',
               },
             ],
           },
@@ -155,38 +161,40 @@ describe('d3_client_en', function() {
       client.getItem(url, function(e, item) {
         assert.equal(e, null);
         assert.deepEqual(item, h.extendObj(EMPTY_ITEM, {
-          id:    'apprentice-arming-cap',
-          link:  'http://us.battle.net/d3/en/artisan/blacksmith/recipe/apprentice-arming-cap',
-          icon:  'http://media.blizzard.com/d3/icons/items/large/helm_004_demonhunter_male.png',
-          name:  'Apprentice Arming Cap',
-          slot:  'Head',
-          type:  'Rare Helm',
-          level: 15,
+          id:      'apprentice-arming-cap',
+          link:    'http://us.battle.net/d3/en/artisan/blacksmith/recipe/apprentice-arming-cap',
+          icon:    'http://media.blizzard.com/d3/icons/items/large/helm_004_demonhunter_male.png',
+          name:    'Apprentice Arming Cap',
+          slot:    'Head',
+          type:    'Helm',
+          quality: 'Rare',
+          level:   15,
+
           attrs: {
             aws:     ['54–71', 'Armor'],
             effects: ['+4 Random Magic Properties'],
           },
           source: {
-            cost:      '1,000',
-            rank:      'Level 1 (Apprentice)',
-            materials: [
+            cost:  '1,000',
+            rank:  'Level 1 (Apprentice)',
+            parts: [
               {
-                count: 5,
-                id:    'reusable-parts',
-                link:  'http://us.battle.net/d3/en/item/reusable-parts',
-                icon:  'http://media.blizzard.com/d3/icons/items/small/crafting_assortedparts_01_demonhunter_male.png',
+                num:  5,
+                id:   'reusable-parts',
+                link: 'http://us.battle.net/d3/en/item/reusable-parts',
+                icon: 'http://media.blizzard.com/d3/icons/items/small/crafting_assortedparts_01_demonhunter_male.png',
               },
               {
-                count: 5,
-                id:    'arcane-dust',
-                link:  'http://us.battle.net/d3/en/item/arcane-dust',
-                icon:  'http://media.blizzard.com/d3/icons/items/small/crafting_magic_01_demonhunter_male.png',
+                num:  5,
+                id:   'arcane-dust',
+                link: 'http://us.battle.net/d3/en/item/arcane-dust',
+                icon: 'http://media.blizzard.com/d3/icons/items/small/crafting_magic_01_demonhunter_male.png',
               },
               {
-                count: 2,
-                id:    'veiled-crystal',
-                link:  'http://us.battle.net/d3/en/item/veiled-crystal',
-                icon:  'http://media.blizzard.com/d3/icons/items/small/crafting_rare_01_demonhunter_male.png',
+                num:  2,
+                id:   'veiled-crystal',
+                link: 'http://us.battle.net/d3/en/item/veiled-crystal',
+                icon: 'http://media.blizzard.com/d3/icons/items/small/crafting_rare_01_demonhunter_male.png',
               },
             ],
           },
@@ -205,15 +213,17 @@ describe('d3_client_en', function() {
       client.getItem(url, function(e, item) {
         assert.equal(e, null);
         assert.deepEqual(item, h.extendObj(EMPTY_ITEM, {
-          id:    'leorics-crown',
-          link:  'http://us.battle.net/d3/en/item/leorics-crown',
-          icon:  'http://media.blizzard.com/d3/icons/items/large/unique_helm_002_p1_demonhunter_male.png',
-          name:  'Leoric\'s Crown',
-          slot:  'Head',
-          type:  'Legendary Helm',
-          level: 1,
-          desc2: 'The crown of the Black King. The taint of his madness wafts from the metal, ' +
-                 'clinging to any jewel that comes near it.',
+          id:      'leorics-crown',
+          link:    'http://us.battle.net/d3/en/item/leorics-crown',
+          icon:    'http://media.blizzard.com/d3/icons/items/large/unique_helm_002_p1_demonhunter_male.png',
+          name:    'Leoric\'s Crown',
+          slot:    'Head',
+          type:    'Helm',
+          quality: 'Legendary',
+          level:   1,
+          legend:  'The crown of the Black King. The taint of his madness wafts from the metal, ' +
+                   'clinging to any jewel that comes near it.',
+
           attrs: {
             aws:     ['72–89', 'Armor'],
             effects: [
@@ -243,14 +253,16 @@ describe('d3_client_en', function() {
       client.getItem(url, function(e, item) {
         assert.equal(e, null);
         assert.deepEqual(item, h.extendObj(EMPTY_ITEM, {
-          id:    'cains-laurel',
-          link:  'http://us.battle.net/d3/en/artisan/blacksmith/recipe/cains-laurel',
-          icon:  'http://media.blizzard.com/d3/icons/items/large/unique_helm_012_1xx_demonhunter_male.png',
-          name:  'Cain\'s Memory',
-          slot:  'Head',
-          type:  'Set Helm',
-          level: 23,
-          desc2: 'This laurel represents the wisdom of the scholar Deckard Cain.',
+          id:      'cains-laurel',
+          link:    'http://us.battle.net/d3/en/artisan/blacksmith/recipe/cains-laurel',
+          icon:    'http://media.blizzard.com/d3/icons/items/large/unique_helm_012_1xx_demonhunter_male.png',
+          name:    'Cain\'s Memory',
+          slot:    'Head',
+          type:    'Helm',
+          quality: 'Set',
+          level:   23,
+          legend:  'This laurel represents the wisdom of the scholar Deckard Cain.',
+
           attrs: {
             aws:     ['72–89', 'Armor'],
             effects: [
@@ -260,8 +272,8 @@ describe('d3_client_en', function() {
             ],
           },
           set: {
-            name:   'Cain\'s Fate',
-            pieces: [
+            name:  'Cain\'s Fate',
+            parts: [
               {
                 id:   'cains-laurel',
                 name: 'Cain\'s Memory',
@@ -285,14 +297,14 @@ describe('d3_client_en', function() {
             ],
             bonus: [
               {
-                count: 2,
-                desc:  [
+                num:   2,
+                attrs: [
                   'Attack Speed Increased by 2.0%',
                 ],
               },
               {
-                count: 3,
-                desc:  [
+                num:   3,
+                attrs: [
                   '10% Better Chance of Finding Magical Items',
                   '+50% Experience. (5.0% at level 70)',
                 ],
@@ -305,24 +317,24 @@ describe('d3_client_en', function() {
             icon: 'http://media.blizzard.com/d3/icons/items/small/' +
                   'craftingplan_smith_t04_legendary_set_normal_002_demonhunter_male.png',
 
-            materials: [
+            parts: [
               {
-                count: 15,
-                id:    'reusable-parts',
-                link:  'http://us.battle.net/d3/en/item/reusable-parts',
-                icon:  'http://media.blizzard.com/d3/icons/items/small/crafting_assortedparts_01_demonhunter_male.png',
+                num:  15,
+                id:   'reusable-parts',
+                link: 'http://us.battle.net/d3/en/item/reusable-parts',
+                icon: 'http://media.blizzard.com/d3/icons/items/small/crafting_assortedparts_01_demonhunter_male.png',
               },
               {
-                count: 15,
-                id:    'arcane-dust',
-                link:  'http://us.battle.net/d3/en/item/arcane-dust',
-                icon:  'http://media.blizzard.com/d3/icons/items/small/crafting_magic_01_demonhunter_male.png',
+                num:  15,
+                id:   'arcane-dust',
+                link: 'http://us.battle.net/d3/en/item/arcane-dust',
+                icon: 'http://media.blizzard.com/d3/icons/items/small/crafting_magic_01_demonhunter_male.png',
               },
               {
-                count: 10,
-                id:    'veiled-crystal',
-                link:  'http://us.battle.net/d3/en/item/veiled-crystal',
-                icon:  'http://media.blizzard.com/d3/icons/items/small/crafting_rare_01_demonhunter_male.png',
+                num:  10,
+                id:   'veiled-crystal',
+                link: 'http://us.battle.net/d3/en/item/veiled-crystal',
+                icon: 'http://media.blizzard.com/d3/icons/items/small/crafting_rare_01_demonhunter_male.png',
               },
             ],
           },
@@ -341,16 +353,18 @@ describe('d3_client_en', function() {
       client.getItem(url, function(e, item) {
         assert.equal(e, null);
         assert.deepEqual(item, h.extendObj(EMPTY_ITEM, {
-          id:    'balance',
-          link:  'http://us.battle.net/d3/en/item/balance',
-          icon:  'http://media.blizzard.com/d3/icons/items/large/p4_unique_combatstaff_2h_001_demonhunter_male.png',
-          name:  'Balance',
-          slot:  '2-Hand',
-          type:  'Legendary Daibo',
-          level: 9,
-          owner: 'Monk',
-          desc2: '"We must walk the middle way between chaos and order, and not allow our emotions to sway us."' +
-                 ' —Tenets of the Veradani',
+          id:      'balance',
+          link:    'http://us.battle.net/d3/en/item/balance',
+          icon:    'http://media.blizzard.com/d3/icons/items/large/p4_unique_combatstaff_2h_001_demonhunter_male.png',
+          name:    'Balance',
+          slot:    '2-Hand',
+          type:    'Daibo',
+          quality: 'Legendary',
+          level:   9,
+          owner:   'Monk',
+          legend:  '"We must walk the middle way between chaos and order, and not allow our emotions to sway us."' +
+                   ' —Tenets of the Veradani',
+
           attrs: {
             aws: [
               '55.0–56.7',
