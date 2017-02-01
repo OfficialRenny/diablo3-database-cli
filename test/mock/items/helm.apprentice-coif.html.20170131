@@ -1,0 +1,1219 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-us">
+<head xmlns:og="http://ogp.me/ns#" xmlns:fb="http://ogp.me/ns/fb#">
+<meta http-equiv="imagetoolbar" content="false" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+<title>Apprentice Coif - Game Guide - Diablo III</title>
+<link rel="icon" href="/d3/static/images/icons/favicon.ico?v=58-96" type="image/x-icon" />
+<link rel="shortcut icon" href="/d3/static/images/icons/favicon.ico?v=58-96" type="image/x-icon" />
+<link title="Diablo® III - News" href="/d3/en/feed/news" type="application/atom+xml" rel="alternate" />
+<link rel="search" type="application/opensearchdescription+xml" href="http://us.battle.net/en-us/data/opensearch" title="Battle.net Search" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/local-common/css/common-game-site.min.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/legal/ratings.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/d3.css?v=96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/nav-client/nav-client-desktop.css?v=96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/tooltips.css?v=96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/db.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/item/detail.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/item/recipe.css?v=58-96" />
+<link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/artisan/shared.css?v=58-96" />
+<!--[if IE 6]> <link rel="stylesheet" type="text/css" media="all" href="/d3/static/css/tooltips-ie6.css?v=96" />
+<![endif]-->
+<script type="text/javascript" src="/d3/static/local-common/js/third-party.js?v=58-96"></script>
+<script type="text/javascript" src="/d3/static/local-common/js/common-game-site.min.js?v=58-96"></script>
+<meta name="robots" content="" />
+<meta name="title" content="Apprentice Coif" />
+<meta name="description" content="" />
+<meta name="keywords" content="Apprentice Coif, Magic, Helms, Item, Blacksmith, Head, Head" />
+<meta name="identifier" content="apprentice-coif" />
+<meta name="type" content="recipe" />
+<meta name="icon" content="http://media.blizzard.com/d3/icons/items/small/helm_003_demonhunter_male.png" />
+<meta name="language" content="en-us" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Apprentice Coif - Game Guide - Diablo III" />
+<meta name="twitter:description" content="Magic Helm" />
+<meta name="twitter:image:src" content="http://media.blizzard.com/d3/icons/items/large/helm_003_demonhunter_male.png" />
+<!--[if IE 6]> <script type="text/javascript">
+//<![CDATA[
+try { document.execCommand('BackgroundImageCache', false, true) } catch(e) {}
+//]]>
+</script>
+<![endif]-->
+<script type="text/javascript">
+//<![CDATA[
+var Core = Core || {},
+Login = Login || {};
+Core.staticUrl = '/d3/static';
+Core.sharedStaticUrl = '/d3/static/local-common';
+Core.baseUrl = '/d3/en';
+Core.projectUrl = '/d3';
+Core.cdnUrl = 'http://media.blizzard.com';
+Core.supportUrl = 'http://us.battle.net/support/';
+Core.secureSupportUrl = 'https://us.battle.net/support/';
+Core.project = 'd3';
+Core.locale = 'en-us';
+Core.language = 'en';
+Core.region = 'us';
+Core.shortDateFormat = 'MM/dd/yyyy';
+Core.dateTimeFormat = 'MM/dd/yyyy hh:mm a';
+Core.loggedIn = false;
+Core.userAgent = 'web';
+Login.embeddedUrl = 'https://us.battle.net/login/login.frag';
+var Flash = Flash || {};
+Flash.videoPlayer = 'http://media.blizzard.com/global-video-player/themes/d3/video-player.swf';
+Flash.videoBase = 'http://media.blizzard.com/d3/media/videos';
+Flash.ratingImage = 'http://media.blizzard.com/global-video-player/ratings/d3/en-us.jpg';
+Flash.expressInstall = 'http://media.blizzard.com/global-video-player/expressInstall.swf';
+//]]>
+</script>
+<meta property="fb:app_id" content="155068716934" />
+<meta property="og:site_name" content="Diablo III" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://us.battle.net/d3/en/artisan/blacksmith/recipe/apprentice-coif" />
+<meta property="og:image" content="http://media.blizzard.com/d3/icons/items/large/helm_003_demonhunter_male.png" />
+<meta property="og:image" content="http://media.blizzard.com/battle.net/logos/og-d3.png" />
+<meta property="og:image" content="http://media.blizzard.com/battle.net/logos/og-blizzard.png" />
+<meta property="og:title" content="Apprentice Coif" />
+<meta property="og:description" content="Magic Helm" />
+<link rel="canonical" href="http://us.battle.net/d3/en/artisan/blacksmith/recipe/apprentice-coif" />
+</head>
+<body class="en-us db-detail item-detail db-subpage artisan-blacksmith artisan-subpage-blacksmith" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+<script>
+//<![CDATA[
+var dataLayer = [{
+"authenticated": "0" }];
+(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({"gtm.start":new Date().getTime(),event:"gtm.js"});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!="dataLayer"?"&amp;l="+l:"";j.async=true;j.src=
+"//www.googletagmanager.com/gtm.js?id="+i+dl;f.parentNode.insertBefore(j,f);})
+(window,document,"script","dataLayer","GTM-M39SFZ");
+//]]>
+</script>
+<div id="nav-client-header" class="nav-client compact">
+<div id="nav-client-bar">
+<div class="grid-container nav-header-content">
+<ul class="nav-list nav-left" id="nav-client-main-menu">
+<li>
+<a id="nav-client-home" class="nav-item nav-home" href="http://us.battle.net/" data-analytics="global-nav" data-analytics-placement="Nav - Battle.net Icon"></a>
+</li>
+<li>
+<div class="dropdown games">
+<a class="dropdown-toggle nav-link needsclick active" data-toggle="dropdown">
+Games
+<b class="caret"></b>
+</a>
+<div class="dropdown-menu">
+<ul class="nav-product-card-container games-menu" role="menu">
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/wow/" data-analytics="global-nav" data-analytics-placement="Nav - Games - World of Warcraft"><i class="nav-icon-wow"></i>World of Warcraft®</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/d3/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Diablo III"><i class="nav-icon-d3"></i>Diablo® III</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/sc2/" data-analytics="global-nav" data-analytics-placement="Nav - Games - StarCraft II"><i class="nav-icon-sc2"></i>StarCraft® II</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/hearthstone/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Hearthstone"><i class="nav-icon-hearthstone"></i>Hearthstone®</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/heroes/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Heroes of the Storm"><i class="nav-icon-heroes"></i>Heroes of the Storm™</a>
+</li>
+<li>
+<a class="nav-item game-icon" href="http://us.battle.net/overwatch/" data-analytics="global-nav" data-analytics-placement="Nav - Games - Overwatch"><i class="nav-icon-overwatch"></i>Overwatch™</a>
+</li>
+</ul>
+<div class="dropdown-well dropdown-section download-btn">
+<a class="nav-item nav-a nav-item-box" href="http://us.battle.net/games/classic" data-analytics="global-nav" data-analytics-placement="Nav - Games - Classic Games"><i class="nav-icon-24-blue nav-icon-mouse"></i>Classic Games</a>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a id="nav-client-shop" class="nav-item nav-link needsclick" href="https://us.battle.net/shop/" data-analytics="global-nav" data-analytics-placement="Nav - Shop">Shop</a>
+</li>
+</ul>
+<ul class="nav-list nav-right" id="nav-client-account-menu">
+<li>
+<div id="username">
+<div class="dropdown pull-right">
+<a class="nav-link username username--loggedout needsclick dropdown-toggle" data-toggle="dropdown" rel="navbar">
+Your account
+<b class="caret"></b>
+</a>
+<div class="dropdown-menu">
+<div class="arrow top"></div>
+<div class="user-profile">
+<div class="dropdown-section">
+<div class="nav-box">
+<a class="nav-item nav-btn nav-btn-block nav-login-btn" href="?login" data-analytics="global-nav" data-analytics-placement="Nav - Account - Log In">Log In</a>
+</div>
+</div>
+<div class="dropdown-section">
+<ul class="nav-list">
+<li>
+<a class="nav-item nav-a nav-item-box" href="http://us.battle.net/account/management/" data-analytics="global-nav" data-analytics-placement="Nav - Account - Settings"><i class="nav-icon-24-blue nav-icon-character-cog"></i>Account Settings</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</li>
+<li>
+<a id="nav-client-support-link" class="nav-item nav-link needsclick" href="http://us.battle.net/support/" data-analytics="global-nav" data-analytics-placement="Nav - Support"> Support </a>
+</li>
+<li>
+<div class="nav-notification-icon">
+<a class="dropdown-toggle needsclick nav-item" rel="navbar">
+<i class="needsclick nav-icon-bell"></i>
+</a>
+<div class="nav-notification-dropdown dropdown-menu">
+<div class="arrow top"></div>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class="nav-notification-responsive-container">
+<div class="nav-notification-dropdown dropdown-menu">
+<div class="arrow top"></div>
+</div>
+</div>
+</div>
+<div class="bg-wrapper">
+<div class="wrapper">
+<div class="head">
+<h1 class="logo">
+<a href="/d3/en/">Diablo® III</a>
+</h1>
+<a href="javascript:;" class="skull-eyes" id="skull-eyes"></a>
+<div class="try-free">
+<span class="try-free-label">New to Diablo III?</span>
+<a class="button-game" href="https://us.battle.net/account/activation/landing.html?product=D3&amp;d3Gateway" data-analytics="d3-starter-edition" data-analytics-placement="Masthead">
+<span class="button-game-bg-left"></span>
+<span class="button-game-bg-mid">
+<span>Try Free Now</span>
+</span>
+<span class="button-game-bg-right"></span>
+</a>
+</div>
+<div class="search-bar">
+<form action="/d3/en/search" method="get" autocomplete="off">
+<div>
+<input type="search" class="search-field input" name="q" id="search-field" maxlength="200" tabindex="40" alt="Search Diablo III..." value="Search Diablo III..." />
+<input type="submit" class="search-button" value="" tabindex="41" />
+</div>
+</form>
+</div>
+<ul class="menu" id="menu">
+<li class="menu-home" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/">
+<span itemprop="name">Home</span>
+</a>
+</li>
+<li class="menu-game" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/game/" class="menu-active">
+<span itemprop="name">Game Guide</span>
+</a>
+</li>
+<li class="menu-rankings" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/rankings/">
+<span itemprop="name">Rankings</span>
+</a>
+</li>
+<li class="menu-media" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/media/">
+<span itemprop="name">Media</span>
+</a>
+</li>
+<li class="menu-forums" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="https://us.battle.net/forums/en/d3/">
+<span itemprop="name">Forums</span>
+</a>
+</li>
+<li class="menu-purchase" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a itemprop="url" href="/d3/en/purchase">
+<span itemprop="name">Buy Now</span>
+</a>
+</li>
+</ul>
+<div class="character-card card-login ajax-update">
+<a href="?login" class="click-area login" onclick="return Login.open('https://us.battle.net/login/login.frag');">
+<span class="inner"> <strong>Log in now</strong> to enhance and personalize your experience!
+</span>
+<span class="avatar-frame">
+<span class="no-avatar"></span>
+<span class="border"></span>
+</span>
+</a>
+</div>
+</div>
+<div class="body" itemscope="itemscope" itemtype="http://schema.org/WebPageElement">
+<div class="body-top">
+<div class="body-bot">
+	<div class="page-header page-header-db">
+	<div class="db-page-jumper" id="page-jumper">
+
+
+			<a href="/d3/en/artisan/blacksmith/recipe/"
+				data-title="Blacksmith"
+				class="jump-active ">
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/pt_blacksmith.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+			</a>
+
+			<a href="/d3/en/artisan/jeweler/recipe/"
+				data-title="Jeweler"
+				class=" ">
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/pt_jeweler.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+			</a>
+
+			<a href="/d3/en/artisan/mystic/recipe/"
+				data-title="Mystic"
+				class=" ">
+
+	 
+		<span class="icon-portrait icon-frame " style="background-image: url('http://media.blizzard.com/d3/icons/portraits/42/pt_mystic.png'); width: 42px; height: 42px;">
+			<span class="frame"></span>
+		</span>
+			</a>
+
+	<span class="clear"><!-- --></span>
+
+		<div class="jump-tip" style="display: none">
+			<div class="jump-tip-arrow"></div>
+			<div class="jump-tip-text"></div>
+		</div>
+	</div>
+
+
+
+	<h2 class="header-2" >			<a href="/d3/en/artisan/blacksmith/">Blacksmith</a>
+</h2>
+	</div>
+
+
+	<ul class="tab-menu ">
+				<li class="menu-overview ">
+					<a href="/d3/en/artisan/blacksmith/"
+					
+					>
+					<span>Overview</span>
+					</a>
+				</li>
+				<li class="menu-recipe ">
+					<a href="/d3/en/artisan/blacksmith/recipe/"
+					
+					 class="tab-active">
+					<span>Recipes</span>
+					</a>
+				</li>
+				<li class="menu-training ">
+					<a href="/d3/en/artisan/blacksmith/progression/"
+					
+					>
+					<span>Progression</span>
+					</a>
+				</li>
+	</ul>
+
+	<div class="page-body is-recipe">
+		<div class="item-right">
+	<div class="db-mini-nav colors-subtle">
+
+	<div class="db-mini-nav-header">
+
+
+	<h3 class="header-3" >			See Also
+</h3>
+
+			<span class="subtitle">Crafted Helms</span>
+
+		<div class="column-headers">
+			<span class="float-right">Level</span>
+				Item
+	</div>
+	</div>
+
+		<ul>
+
+				<li class="active row1" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/apprentice-coif" itemprop="url">
+						<span class="name" itemprop="name">Apprentice Coif</span>
+							<span class="note">9</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-yellow row2" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/apprentice-arming-cap" itemprop="url">
+						<span class="name" itemprop="name">Apprentice Arming Cap</span>
+							<span class="note">15</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-yellow row1" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/journeyman-chain-hood" itemprop="url">
+						<span class="name" itemprop="name">Journeyman Chain Hood</span>
+							<span class="note">18</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-yellow row2" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/adept-helmet" itemprop="url">
+						<span class="name" itemprop="name">Adept Helmet</span>
+							<span class="note">21</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-green row1" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/cains-laurel" itemprop="url">
+						<span class="name" itemprop="name">Cain&#39;s Memory</span>
+							<span class="note">23</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-yellow row2" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/master-plated-helm" itemprop="url">
+						<span class="name" itemprop="name">Master Plated Helm</span>
+							<span class="note">27</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-yellow row1" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/grand-master-crown" itemprop="url">
+						<span class="name" itemprop="name">Grand Master Crown</span>
+							<span class="note">32</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-yellow row2" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/illustrious-klappvisier" itemprop="url">
+						<span class="name" itemprop="name">Illustrious Klappvisier</span>
+							<span class="note">40</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-green row1" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/aughilds-brow" itemprop="url">
+						<span class="name" itemprop="name">Aughild&#39;s Peak</span>
+							<span class="note">42</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-yellow row2" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/magnificent-casque" itemprop="url">
+						<span class="name" itemprop="name">Magnificent Casque</span>
+							<span class="note">44</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-yellow row1" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/resplendent-great-helm" itemprop="url">
+						<span class="name" itemprop="name">Resplendent Great Helm</span>
+							<span class="note">50</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-yellow row2" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/glorious-hounskull" itemprop="url">
+						<span class="name" itemprop="name">Glorious Hounskull</span>
+							<span class="note">54</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-green row1" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/guardians-watch" itemprop="url">
+						<span class="name" itemprop="name">Guardian&#39;s Foresight</span>
+							<span class="note">55</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-yellow row2" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/exalted-helm" itemprop="url">
+						<span class="name" itemprop="name">Exalted Helm</span>
+							<span class="note">60</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-orange row1" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/the-helm-of-command" itemprop="url">
+						<span class="name" itemprop="name">The Helm of Command</span>
+							<span class="note">60</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-green row2" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/sages-stones" itemprop="url">
+						<span class="name" itemprop="name">Sage&#39;s Orbit</span>
+							<span class="note">60</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-yellow row1" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/exquisite-rakkisgard-helm" itemprop="url">
+						<span class="name" itemprop="name">Exquisite Rakkisgard Helm</span>
+							<span class="note">61</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-yellow row2" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/sovereign-ascended-crown" itemprop="url">
+						<span class="name" itemprop="name">Sovereign Ascended Crown</span>
+							<span class="note">70</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-orange row1" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/the-helm-of-rule" itemprop="url">
+						<span class="name" itemprop="name">The Helm of Rule</span>
+							<span class="note">70</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-green row2" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/aughilds-spike" itemprop="url">
+						<span class="name" itemprop="name">Aughild&#39;s Spike</span>
+							<span class="note">70</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-green row1" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/cains-insight" itemprop="url">
+						<span class="name" itemprop="name">Cain&#39;s Insight</span>
+							<span class="note">70</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-green row2" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/guardians-gaze" itemprop="url">
+						<span class="name" itemprop="name">Guardian&#39;s Gaze</span>
+							<span class="note">70</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+
+				<li class="d3-color-green row1" itemprop="relatedLink"  itemscope="itemscope">
+					<a href="/d3/en/artisan/blacksmith/recipe/sages-apogee" itemprop="url">
+						<span class="name" itemprop="name">Sage&#39;s Apogee</span>
+							<span class="note">70</span>
+
+	<span class="clear"><!-- --></span>
+					</a>
+				</li>
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+		</div>
+
+		<div class="item-left">
+
+	<div class="recipe-source colors-subtle">
+		<div class="source-costs">
+			<span class="label">Materials:</span>
+    <div class="recipe-materials">
+			<a href="/d3/en/item/reusable-parts" class="material d3-color-white">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-small  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/small/crafting_assortedparts_01_demonhunter_male.png);">
+					<span class="d3-num">4</span>
+			</span>
+		</span>
+	</span>
+			</a>
+			<a href="/d3/en/item/arcane-dust" class="material d3-color-blue">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-small  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-square" style="background-image: url(http://media.blizzard.com/d3/icons/items/small/crafting_magic_01_demonhunter_male.png);">
+					<span class="d3-num">4</span>
+			</span>
+		</span>
+	</span>
+			</a>
+	</div>
+		</div>
+
+		<div class="source-costs">
+			<span class="label">Cost:</span>
+			<span class="cost">1,000 <span class="icon-16 icon-16-gold"></span></span>
+		</div>
+
+			<div class="source-text">
+				<div class="plan">
+					Training
+					<span class="rank">Level 1 <span>(Apprentice)</span></span>
+				</div>
+
+	<span class="clear"><!-- --></span>
+			</div>
+
+		<div class="artisan-silhouette blacksmith"></div>
+
+	<span class="clear"><!-- --></span>
+	</div>
+
+		<div class="db-detail-box colors-subtle item-detail-box icon-size-default">
+ 
+
+
+		<div class="detail-icon ">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-blue">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_003_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+		</div>
+
+			<div class="detail-level">
+				<div class="detail-level-inner">
+					Requires level
+				</div>
+				<span class="detail-level-number">9</span>
+			</div>
+
+
+		<div class="detail-text">
+			
+
+	<h2 class="header-2 d3-color-blue" >Apprentice Coif</h2>
+
+
+
+
+	<div class="d3-item-properties">
+
+
+
+
+	<ul class="item-type-right">
+
+
+			<li class="item-slot">Head</li>
+
+	</ul>
+
+
+	<ul class="item-type">
+		<li>
+			<span class="d3-color-blue">Magic Helm</span>
+		</li>
+	</ul>
+		<ul class="item-armor-weapon item-armor-armor">
+			<li class="big"><p><span class="value">36–41</span></p></li>
+			<li>Armor</li>
+		</ul>
+
+
+
+
+	<div class="item-before-effects"></div>
+
+
+
+		<ul class="item-effects">
+
+
+	<li class="d3-color-blue"><span class="value">+</span><span class="value">2</span> Random Magic Properties</li>
+
+
+
+		</ul>
+
+
+		<ul class="item-extras">
+		</ul>
+	<span class="clear"><!-- --></span>
+	</div>
+		</div>
+
+
+		<span class="corner tl"></span>
+		<span class="corner tr"></span>
+		<span class="corner bl"></span>
+		<span class="corner br"></span>
+	</div>
+
+	<div class="page-section item-appearance x1">
+			<div class="section-header has-icon">
+				
+
+	<h3 class="header-3" >Appearance</h3>
+
+
+					<span class="icon helm"></span>
+			</div>
+
+		<div class="section-body">
+
+		<ul>
+				<li class="tile-barbarian">
+					<div class="icon-holder">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_003_barbarian_male.png);">
+			</span>
+		</span>
+	</span>
+
+
+
+	<h3 class="header-3" >							<a href="/d3/en/class/barbarian/">Barbarian</a>
+</h3>
+					</div>
+				</li>
+				<li class="tile-crusader">
+					<div class="icon-holder">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_003_crusader_male.png);">
+			</span>
+		</span>
+	</span>
+
+
+
+	<h3 class="header-3" >							<a href="/d3/en/class/crusader/">Crusader</a>
+</h3>
+					</div>
+				</li>
+				<li class="tile-demon-hunter">
+					<div class="icon-holder">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_003_demonhunter_male.png);">
+			</span>
+		</span>
+	</span>
+
+
+
+	<h3 class="header-3" >							<a href="/d3/en/class/demon-hunter/">Demon Hunter</a>
+</h3>
+					</div>
+				</li>
+				<li class="tile-monk">
+					<div class="icon-holder">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_003_monk_male.png);">
+			</span>
+		</span>
+	</span>
+
+
+
+	<h3 class="header-3" >							<a href="/d3/en/class/monk/">Monk</a>
+</h3>
+					</div>
+				</li>
+				<li class="tile-witch-doctor">
+					<div class="icon-holder">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_003_witchdoctor_male.png);">
+			</span>
+		</span>
+	</span>
+
+
+
+	<h3 class="header-3" >							<a href="/d3/en/class/witch-doctor/">Witch Doctor</a>
+</h3>
+					</div>
+				</li>
+				<li class="tile-wizard">
+					<div class="icon-holder">
+
+
+
+	<span class="d3-icon d3-icon-item d3-icon-item-large  d3-icon-item-white">
+		<span class="icon-item-gradient">
+			<span class="icon-item-inner icon-item-default" style="background-image: url(http://media.blizzard.com/d3/icons/items/large/helm_003_wizard_male.png);">
+			</span>
+		</span>
+	</span>
+
+
+
+	<h3 class="header-3" >							<a href="/d3/en/class/wizard/">Wizard</a>
+</h3>
+					</div>
+				</li>
+		</ul>
+
+	<span class="clear"><!-- --></span>
+		</div>
+	</div>
+		</div>
+
+	<span class="clear"><!-- --></span>
+	</div>
+
+
+
+
+
+	<div id="comments" class="bnet-comments ">
+		
+
+
+	<h2 class="subheader-2" >Loading Comments…</h2>
+
+		
+
+
+	<h2 class="hide" >An error has occurred loading comments.</h2>
+
+
+		<div class="comments-loading"></div>
+
+		<script type="text/javascript">
+		//<![CDATA[
+			$(function() {
+				Comments.initialize('us.en_us.d3.crafted_item_t01_armor_helm', '9042e72bb6c62d60d80a9d1c1f33d513', '0');
+			});
+		//]]>
+		</script>
+	</div>
+
+
+
+
+<span class="clear"><!-- --></span>
+<div class="social-media-container no-font-boost">
+<h2 class="social-media-title">Stay Connected</h2>
+<ul class="social-media">
+<li class="atom-feed">
+<a href="/d3/en/feed/news" target="_blank"></a>
+</li>
+<li class="facebook">
+<a href="https://www.facebook.com/Diablo" title=""></a>
+</li>
+<li class="twitter">
+<a href="https://twitter.com/Diablo" title=""></a>
+</li>
+<li class="youtube">
+<a href="https://www.youtube.com/Diablo" title=""></a>
+</li>
+<li class="reddit">
+<a href="http://www.reddit.com/r/diablo" title="Diablo on reddit"></a>
+</li>
+<span class="clear"><!-- --></span>
+</ul>
+</div>
+<a href="javascript:;" class="chat-gem" id="chat-gem"></a>
+</div>
+</div>
+<div class="body-trail">
+<ol class="ui-breadcrumb">
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Diablo III</span>
+</a>
+</li>
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/game/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Game Guide</span>
+</a>
+</li>
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/artisan/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Artisans</span>
+</a>
+</li>
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/artisan/blacksmith/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Blacksmith</span>
+</a>
+</li>
+<li itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/artisan/blacksmith/recipe/" rel="np" class="breadcrumb-arrow" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Recipes</span>
+</a>
+</li>
+<li class="last" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement">
+<a href="/d3/en/artisan/blacksmith/recipe/apprentice-coif" rel="np" itemprop="url">
+<span class="breadcrumb-text" itemprop="name">Apprentice Coif</span>
+</a>
+</li>
+</ol>
+<span class="clear"><!-- --></span>
+</div>
+</div>
+<div class="nav-footer-wrapper">
+<div id="nav-client-footer" class="nav-client">
+<div class="footer-content footer-desktop grid-container"> <div class="nav-section support-feedback">
+<div class="nav-left">
+<div id="nav-feedback">
+<a id="nav-client-news" class="nav-item nav-a nav-item-btn" href="http://us.battle.net/support/" data-analytics="global-nav" data-analytics-placement="Footer - Support"><i class="nav-icon-24-blue nav-icon-question-circle"></i>Support</a>
+<a class="nav-item nav-a nav-item-btn" href="https://us.battle.net/feedback" data-analytics="global-nav" data-analytics-placement="Footer - Feedback"><i class="nav-icon-24-blue nav-icon-edit"></i>Feedback</a>
+</div>
+</div>
+<div class="nav-right">
+<div id="nav-client-region-select">
+<div class="dropdown dropup pull-right">
+<a class="dropdown-toggle nav-item" data-toggle="dropdown">
+<i class="nav-icon-24-blue nav-icon-globe"></i>Americas - English (US)<b class="caret"></b>
+</a>
+<div class="dropdown-menu" data-placement="top">
+<div class="arrow bottom"></div>
+<div id="nav-client-international-desktop">
+<div class="nav-international-container">
+<div class="dropdown-section nav-column-container">
+<div class="nav-column-50">
+<div id="select-regions" class="nav-box regions">
+<h3>Region</h3>
+<ul class="region-ul">
+<li class="region active current"><a class="nav-item select-region" href="javascript:;" data-target="us">Americas</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="eu">Europe</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="kr">Korea</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="tw">Taiwan</a></li>
+<li class="region "><a class="nav-item select-region" href="javascript:;" data-target="cn">China</a></li>
+</ul>
+</div>
+</div>
+<div class="nav-column-50">
+<div id="select-language" class="nav-box languages">
+<h3>Language</h3>
+<div class="region region-languages active current" data-region="us">
+<ul class="region-ul">
+<li class="active current">
+<a class="nav-item select-language" href="http://us.battle.net/d3/en-us/artisan/blacksmith/recipe/apprentice-coif" data-target="us" data-language="en-us">English (US)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://us.battle.net/d3/es-mx/artisan/blacksmith/recipe/apprentice-coif" data-target="us" data-language="es-mx">Español (AL)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://us.battle.net/d3/pt-br/artisan/blacksmith/recipe/apprentice-coif" data-target="us" data-language="pt-br">Português (AL)</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="eu">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/de-de/artisan/blacksmith/recipe/apprentice-coif" data-target="eu" data-language="de-de">Deutsch</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/en-gb/artisan/blacksmith/recipe/apprentice-coif" data-target="eu" data-language="en-gb">English (EU)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/es-es/artisan/blacksmith/recipe/apprentice-coif" data-target="eu" data-language="es-es">Español (EU)</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/fr-fr/artisan/blacksmith/recipe/apprentice-coif" data-target="eu" data-language="fr-fr">Français</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/it-it/artisan/blacksmith/recipe/apprentice-coif" data-target="eu" data-language="it-it">Italiano</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/pl-pl/artisan/blacksmith/recipe/apprentice-coif" data-target="eu" data-language="pl-pl">Polski</a>
+</li>
+<li class="">
+<a class="nav-item select-language" href="http://eu.battle.net/d3/ru-ru/artisan/blacksmith/recipe/apprentice-coif" data-target="eu" data-language="ru-ru">Русский</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="kr">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://kr.battle.net/d3/ko-kr/artisan/blacksmith/recipe/apprentice-coif" data-target="kr" data-language="ko-kr">한국어</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="tw">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://tw.battle.net/d3/zh-tw/artisan/blacksmith/recipe/apprentice-coif" data-target="tw" data-language="zh-tw">繁體中文</a>
+</li>
+</ul>
+</div>
+<div class="region region-languages " data-region="cn">
+<ul class="region-ul">
+<li class="">
+<a class="nav-item select-language" href="http://www.diablo3.com.cn" data-target="cn" data-language="zh-cn">简体中文</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="dropdown-section dropdown-well nav-box localeChange">
+<a id="nav-client-change-language-desktop" href="javascript:;" class="nav-lang-change nav-btn">Change</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="nav-section">
+<div class="nav-left nav-logo-group">
+<div class="footer-logo nav-left">
+<a class="nav-item logo-link" href="http://us.blizzard.com/" data-analytics="global-nav" data-analytics-placement="Footer - Blizzard Logo"><img class="blizzard-logo" src="/d3/static/images/nav-client/blizzard.png?v=58-96" alt="" /></a>
+</div>
+<div class="footer-links nav-left">
+<a class="nav-item nav-a" href="http://jobs.blizzard.com/" data-analytics="global-nav" data-analytics-placement="Footer - Careers">Careers</a>
+<span>|</span>
+<a class="nav-item nav-a" href="http://us.blizzard.com/company/about/" data-analytics="global-nav" data-analytics-placement="Footer - About">About</a>
+<span>|</span>
+<a class="nav-item nav-a" href="http://us.blizzard.com/company/about/privacy.html" data-analytics="global-nav" data-analytics-placement="Footer - Privacy">Privacy</a>
+<span>|</span>
+<a class="nav-item nav-a" href="http://us.blizzard.com/company/legal/" data-analytics="global-nav" data-analytics-placement="Footer - Terms">Terms</a>
+<span>|</span>
+<a class="nav-item nav-a" href="//dev.battle.net" data-analytics="global-nav" data-analytics-placement="Footer - API">API</a>
+<div class="copyright">©2017 Blizzard Entertainment, Inc.</div>
+<div class="nav-footer-icon-container">
+<ul class="nav-footer-icon-list">
+</ul>
+</div>
+</div>
+</div>
+<div class="nav-ratings">
+<div class="legal-rating">
+<div class="product-rating esrb-rating clearfix">
+<a href="http://www.esrb.org/ratings/ratings_guide.jsp" tabindex="1" rel="external" target="_blank">
+<img class="esrb-logo" src="/d3/static/images/legal/ratings/esrb/en/m.png?v=58-96"
+alt="ESRB Content Rating: M (Mature)" title=""
+width="65" height="97" />
+</a>
+<span class="esrb-descriptor"><span class="esrb-descriptor-label" title="Depictions of blood or the mutilation of body parts.">Blood and Gore</span></span>
+<span class="esrb-descriptor"><span class="esrb-descriptor-label" title="Scenes involving aggressive conflict. May contain bloodless dismemberment.">Violence</span></span>
+<span class="esrb-descriptor"><span class="esrb-descriptor-label" title="Brief and/or mild depictions of nudity.">Partial Nudity</span></span>
+<span class="esrb-disclaimer">Online Interactions Not Rated by the ESRB</span>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<script>
+//<![CDATA[
+var xsToken = '';
+var supportToken = '';
+var jsonSearchHandlerUrl = '\//us.battle.net';
+var Msg = Msg || {};
+Msg.support = {
+ticketNew: 'Ticket {0} was created.',
+ticketStatus: 'Ticket {0}’s status changed to {1}.',
+ticketOpen: 'Open',
+ticketAnswered: 'Answered',
+ticketResolved: 'Resolved',
+ticketCanceled: 'Canceled',
+ticketArchived: 'Archived',
+ticketInfo: 'Need Info',
+ticketAll: 'View All Tickets'
+};
+Msg.cms = {
+requestError: 'Your request cannot be completed.',
+ignoreNot: 'Not ignoring this user',
+ignoreAlready: 'Already ignoring this user',
+stickyRequested: 'Sticky requested',
+stickyHasBeenRequested: 'You have already sent a sticky request for this topic.',
+postAdded: 'Post added to tracker',
+postRemoved: 'Post removed from tracker',
+userAdded: 'User added to tracker',
+userRemoved: 'User removed from tracker',
+validationError: 'A required field is incomplete',
+characterExceed: 'The post body exceeds XXXXXX characters.',
+searchFor: "Search for",
+searchTags: "Articles tagged:",
+characterAjaxError: "You may have become logged out. Please refresh the page and try again.",
+ilvl: "Level {0}",
+shortQuery: "Search requests must be at least three characters long.",
+editSuccess: "Success. Reload?",
+postDelete: "Are you sure you want to delete this post?",
+throttleError: "You must wait before you can post again."
+};
+Msg.bml= {
+bold: 'Bold',
+italics: 'Italics',
+underline: 'Underline',
+list: 'Unordered List',
+listItem: 'List Item',
+quote: 'Quote',
+quoteBy: 'Posted by {0}',
+unformat: 'Remove Formating',
+cleanup: 'Fix Linebreaks',
+code: 'Code Blocks',
+item: 'WoW Item',
+itemPrompt: 'Item ID:',
+url: 'URL',
+urlPrompt: 'URL Address:'
+};
+Msg.ui= {
+submit: 'Submit',
+cancel: 'Cancel',
+reset: 'Reset',
+viewInGallery: 'View in gallery',
+loading: 'Loading…',
+unexpectedError: 'An error has occurred',
+fansiteFind: 'Find this on…',
+fansiteFindType: 'Find {0} on…',
+fansiteNone: 'No fansites available.',
+flashErrorHeader: 'Adobe Flash Player must be installed to see this content.',
+flashErrorText: 'Download Adobe Flash Player',
+flashErrorUrl: 'http://get.adobe.com/flashplayer/',
+save: 'Save'
+};
+Msg.grammar= {
+colon: '{0}:',
+first: 'First',
+last: 'Last',
+ellipsis: '…'
+};
+Msg.fansite= {
+achievement: 'achievement',
+character: 'character',
+faction: 'faction',
+'class': 'class',
+object: 'object',
+talentcalc: 'talents',
+skill: 'profession',
+quest: 'quest',
+spell: 'spell',
+event: 'event',
+title: 'title',
+arena: 'arena team',
+guild: 'guild',
+zone: 'zone',
+item: 'item',
+race: 'race',
+npc: 'NPC',
+pet: 'pet'
+};
+Msg.search= {
+noResults: 'There are no results to display.',
+kb: 'Support',
+post: 'Forums',
+article: 'Blog Articles',
+static: 'General Content',
+wowcharacter: 'Characters',
+wowitem: 'Items',
+wowguild: 'Guilds',
+wowarenateam: 'Arena Teams',
+url: 'Suggested Links',
+friend: 'Friends',
+product: 'Marketplace Products',
+other: 'Other'
+};
+//]]>
+</script>
+<script type="text/javascript" src="/d3/static/js/libs/toolkit-modal.js?v=96"></script>
+<script type="text/javascript" src="/d3/static/js/d3.js?v=96"></script>
+<script type="text/javascript" src="/d3/static/js/nav-client/navbar-tk.min.js?v=96"></script>
+<script type="text/javascript">
+//<![CDATA[
+window.nav.notifications.endpoint = "";
+//]]>
+</script>
+<script type="text/javascript">
+//<![CDATA[
+$(function(){
+Menu.initialize('/data/menu.json');
+Search.initialize('/d3/en/search/ta');
+Tooltip.maxWidth = 350;
+});
+//]]>
+</script>
+<script type="text/javascript" src="/d3/static/js/blog/responsive-blog-design.min.js?v=96"></script>
+<script type="text/javascript" src="/d3/static/js/db.js?v=58-96"></script>
+<script type="text/javascript" src="/d3/static/js/item/detail.js?v=58-96"></script>
+<div id="modal" class="modal hide">
+<div class="modal-content">
+<div class="modal__media"></div>
+<div class="modal-corner modal-corner-top-left"></div>
+<div class="modal-corner modal-corner-top-right"></div>
+<div class="modal-corner modal-corner-bottom-left"></div>
+<div class="modal-corner modal-corner-bottom-right"></div>
+<div class="modal-border modal-border-top"></div>
+<div class="modal-border modal-border-right"></div>
+<div class="modal-border modal-border-bottom"></div>
+<div class="modal-border modal-border-left"></div>
+<div class="modal-controls">
+<div class="prev arrow-tab modal-navigation"><div class="heroes-arrow"></div></div>
+<div class="next arrow-tab modal-navigation"><div class="heroes-arrow"></div></div>
+</div>
+<span class="media-btn close">×</span>
+</div>
+</div>
+</body>
+</html>
