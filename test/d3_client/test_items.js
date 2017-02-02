@@ -471,5 +471,54 @@ describe('d3_client_en', function() {
         done();
       });
     });
+
+    it('should get gem', function(done) {
+      nock('http://us.battle.net')
+        .get('/d3/en/artisan/jeweler/recipe/square-amethyst')
+        .replyWithFile(200, './test/mock/items/gem.square-amethyst.html.20170202');
+
+      var url = 'http://us.battle.net/d3/en/artisan/jeweler/recipe/square-amethyst';
+      client.getItem(url, function(e, item) {
+        assert.equal(e, null);
+        assert.deepEqual(item, h.extendObj(EMPTY_ITEM, {
+          id:      'square-amethyst',
+          name:    'Square Amethyst',
+          link:    'http://us.battle.net/d3/en/artisan/jeweler/recipe/square-amethyst',
+          icon:    'http://media.blizzard.com/d3/icons/items/large/x1_amethyst_03_demonhunter_male.png',
+          level:   1,
+          type:    'Gem',
+          quality: 'Magic',
+          color:   'blue',
+          bound:   true,
+
+          attrs: {
+            effects: [
+              'Can be inserted into equipment with sockets.',
+              'Helm: +14% Life',
+              'Weapon: +260 Life per Hit',
+              'Other: +30 Vitality',
+            ],
+            extras: [
+              'Account Bound',
+              'Maximum Stack Amount: 5000',
+            ],
+          },
+          source: {
+            cost:  '5,000',
+            rank:  'Level 4 (Master)',
+            parts: [
+              {
+                num:  2,
+                id:   'flawless-amethyst',
+                icon: 'http://media.blizzard.com/d3/icons/items/small/x1_amethyst_02_demonhunter_male.png',
+                link: 'http://us.battle.net/d3/en/artisan/jeweler/recipe/flawless-amethyst',
+              },
+            ],
+          },
+        }));
+
+        done();
+      });
+    });
   }); // #items
 });
