@@ -21,11 +21,14 @@ describe('d3_client_en', function() {
       owner:   '',
       desc:    '',
       legend:  '',
+      unique:  false,
+      bound:   false,
 
       attrs: {
         aws:     [],
         effects: [],
         choices: [],
+        extras:  [],
       },
       set: {
         name:  '',
@@ -255,6 +258,8 @@ describe('d3_client_en', function() {
           quality: 'Legendary',
           color:   'orange',
           level:   1,
+          unique:  true,
+          bound:   true,
           legend:  'The crown of the Black King. The taint of his madness wafts from the metal, ' +
                    'clinging to any jewel that comes near it.',
 
@@ -270,6 +275,9 @@ describe('d3_client_en', function() {
               '+18–26 Dexterity',
               '+18–26 Strength',
               '+18–26 Intelligence',
+            ],
+            extras: [
+              'Account Bound',
             ],
           },
         }));
@@ -297,6 +305,8 @@ describe('d3_client_en', function() {
           color:   'green',
           level:   23,
           legend:  'This laurel represents the wisdom of the scholar Deckard Cain.',
+          unique:  true,
+          bound:   true,
 
           attrs: {
             aws:     ['72–89', 'Armor'],
@@ -304,6 +314,9 @@ describe('d3_client_en', function() {
               'Critical Hit Chance Increased by 2.5–3.0%',
               '+4 Random Magic Properties',
               'Empty Socket',
+            ],
+            extras: [
+              'Account Bound',
             ],
           },
           set: {
@@ -398,6 +411,8 @@ describe('d3_client_en', function() {
           color:   'orange',
           level:   9,
           owner:   'Monk',
+          unique:  true,
+          bound:   true,
           legend:  '"We must walk the middle way between chaos and order, and not allow our emotions to sway us."' +
                    ' —Tenets of the Veradani',
 
@@ -414,6 +429,9 @@ describe('d3_client_en', function() {
               'Increases Tempest Rush Damage by 150–200% (Monk Only)',
               'When your Tempest Rush hits 3 or fewer enemies, it gains 100% Critical Hit Chance.',
               '+3 Random Magic Properties',
+            ],
+            extras: [
+              'Account Bound',
             ],
           },
         }));
@@ -440,6 +458,14 @@ describe('d3_client_en', function() {
           desc:    'Obtained by using the Blacksmith to salvage magic weapons and armor.',
           quality: 'Magic',
           color:   'blue',
+          bound:   true,
+
+          attrs: {
+            extras: [
+              'Account Bound',
+              'Maximum Stack Amount: 5000',
+            ],
+          },
         }));
 
         done();
