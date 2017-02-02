@@ -16,8 +16,10 @@ describe('d3_client_en', function() {
       slot:    '',
       type:    '',
       quality: '',
+      color:   '',
       level:   1,
       owner:   '',
+      desc:    '',
       legend:  '',
 
       attrs: {
@@ -122,6 +124,7 @@ describe('d3_client_en', function() {
           slot:    'Head',
           type:    'Helm',
           quality: 'Normal',
+          color:   'white',
           level:   1,
           legend:  'Wear this and you will be mistaken for a mindless zombie — amuse your friends, fool your enemies!',
 
@@ -150,6 +153,7 @@ describe('d3_client_en', function() {
           slot:    'Head',
           type:    'Helm',
           quality: 'Magic',
+          color:   'blue',
           level:   9,
 
           attrs: {
@@ -196,6 +200,7 @@ describe('d3_client_en', function() {
           slot:    'Head',
           type:    'Helm',
           quality: 'Rare',
+          color:   'yellow',
           level:   15,
 
           attrs: {
@@ -248,6 +253,7 @@ describe('d3_client_en', function() {
           slot:    'Head',
           type:    'Helm',
           quality: 'Legendary',
+          color:   'orange',
           level:   1,
           legend:  'The crown of the Black King. The taint of his madness wafts from the metal, ' +
                    'clinging to any jewel that comes near it.',
@@ -288,6 +294,7 @@ describe('d3_client_en', function() {
           slot:    'Head',
           type:    'Helm',
           quality: 'Set',
+          color:   'green',
           level:   23,
           legend:  'This laurel represents the wisdom of the scholar Deckard Cain.',
 
@@ -388,6 +395,7 @@ describe('d3_client_en', function() {
           slot:    '2-Hand',
           type:    'Daibo',
           quality: 'Legendary',
+          color:   'orange',
           level:   9,
           owner:   'Monk',
           legend:  '"We must walk the middle way between chaos and order, and not allow our emotions to sway us."' +
@@ -408,6 +416,30 @@ describe('d3_client_en', function() {
               '+3 Random Magic Properties',
             ],
           },
+        }));
+
+        done();
+      });
+    });
+
+    it('should get magic material', function(done) {
+      nock('http://us.battle.net')
+        .get('/d3/en/item/arcane-dust')
+        .replyWithFile(200, './test/mock/items/material.arcane-dust.html.20170201');
+
+      var url = 'http://us.battle.net/d3/en/item/arcane-dust';
+      client.getItem(url, function(e, item) {
+        assert.equal(e, null);
+        assert.deepEqual(item, h.extendObj(EMPTY_ITEM, {
+          id:      'arcane-dust',
+          name:    'Arcane Dust',
+          link:    'http://us.battle.net/d3/en/item/arcane-dust',
+          icon:    'http://media.blizzard.com/d3/icons/items/large/crafting_magic_01_demonhunter_male.png',
+          level:   1,
+          type:    'Crafting Material',
+          desc:    'Obtained by using the Blacksmith to salvage magic weapons and armor.',
+          quality: 'Magic',
+          color:   'blue',
         }));
 
         done();
